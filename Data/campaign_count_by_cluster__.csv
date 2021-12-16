@@ -1,0 +1,2237 @@
+,Campaign #1,Campaign #2,Campaign #3,Campaign #4,Campaign #5,Campaign #6,Cluster
+0,0,0,0,0,0,1,Super Client
+1,0,0,0,0,0,0,Casual Client
+2,0,0,0,0,0,0,Good Client
+3,0,0,0,0,0,0,Casual Client
+4,0,0,0,0,0,0,Potential Good Client
+5,0,0,0,0,0,0,Good Client
+6,0,0,0,0,0,0,Good Client
+7,0,0,0,0,0,0,Casual Client
+8,0,0,0,0,0,1,Casual Client
+9,0,0,1,0,0,0,Casual Client
+10,0,0,0,0,0,0,Casual Client
+11,0,0,0,0,0,0,Casual Client
+12,0,0,0,0,0,0,Super Client
+13,0,0,0,0,0,0,Potential Good Client
+14,0,0,0,0,0,0,Casual Client
+15,1,0,0,0,1,1,Super Client
+16,0,0,0,0,0,0,Casual Client
+17,0,0,0,0,0,0,Casual Client
+18,1,0,0,0,0,0,Good Client
+19,0,0,0,0,0,0,Casual Client
+20,0,0,0,0,0,0,Casual Client
+21,0,0,0,0,0,0,Good Client
+22,0,0,0,1,0,0,Potential Good Client
+23,0,0,0,0,0,0,Good Client
+24,0,0,0,0,0,0,Potential Good Client
+25,0,0,0,0,0,0,Casual Client
+26,0,0,0,0,0,0,Potential Good Client
+27,0,0,0,0,0,0,Super Client
+28,0,0,0,0,0,0,Casual Client
+29,0,0,0,0,1,0,Super Client
+30,0,0,0,0,0,0,Casual Client
+31,0,0,0,0,0,0,Casual Client
+32,0,0,0,1,0,0,Casual Client
+33,0,0,0,0,0,1,Potential Good Client
+34,0,0,0,0,0,0,Good Client
+35,0,0,0,0,0,0,Casual Client
+36,0,0,0,0,0,0,Good Client
+37,0,0,0,0,0,0,Casual Client
+38,0,0,0,0,0,0,Casual Client
+39,0,0,1,0,0,1,Good Client
+40,0,0,0,0,0,0,Super Client
+41,0,0,0,0,0,0,Casual Client
+42,0,0,0,0,0,0,Casual Client
+43,0,0,0,0,0,0,Casual Client
+44,0,0,0,0,0,0,Casual Client
+45,0,0,0,0,0,0,Super Client
+46,0,0,0,0,0,1,Casual Client
+47,0,0,0,0,0,0,Casual Client
+48,0,0,0,0,0,0,Casual Client
+49,0,0,0,0,0,0,Good Client
+50,0,0,0,0,0,0,Good Client
+51,0,0,0,0,0,0,Super Client
+52,0,0,0,0,0,0,Casual Client
+53,1,0,1,0,0,1,Super Client
+54,0,0,0,0,0,0,Potential Good Client
+55,0,0,0,0,1,1,Super Client
+56,0,0,0,0,0,1,Super Client
+57,0,0,0,0,0,0,Casual Client
+58,0,0,0,0,0,0,Casual Client
+59,0,0,0,0,0,0,Potential Good Client
+60,0,0,0,1,1,1,Super Client
+61,0,0,0,0,0,0,Good Client
+62,0,0,0,0,0,0,Good Client
+63,0,0,0,0,0,0,Good Client
+64,0,0,0,0,0,0,Super Client
+65,0,0,0,0,0,1,Casual Client
+66,0,0,0,0,0,0,Casual Client
+67,1,0,1,0,0,1,Super Client
+68,0,0,0,0,0,0,Good Client
+69,0,0,0,0,0,0,Good Client
+70,0,0,0,0,0,0,Super Client
+71,0,0,0,0,0,0,Casual Client
+72,0,0,0,0,0,0,Good Client
+73,0,0,0,1,0,0,Potential Good Client
+74,0,0,0,0,0,0,Casual Client
+75,0,0,0,0,0,0,Casual Client
+76,0,0,0,0,0,1,Super Client
+77,0,0,1,0,0,1,Super Client
+78,0,0,0,0,0,0,Casual Client
+79,0,0,1,0,0,1,Good Client
+80,0,0,0,0,0,0,Casual Client
+81,0,0,0,0,0,0,Casual Client
+82,0,0,0,0,0,0,Casual Client
+83,0,0,0,0,0,0,Casual Client
+84,0,0,0,0,0,0,Super Client
+85,0,0,0,0,0,0,Casual Client
+86,0,0,0,1,0,0,Potential Good Client
+87,1,0,0,1,0,1,Potential Good Client
+88,0,0,0,0,1,0,Super Client
+89,0,0,0,0,0,0,Casual Client
+90,0,0,0,0,0,0,Potential Good Client
+91,0,0,0,0,0,0,Casual Client
+92,0,0,0,0,0,0,Super Client
+93,0,0,0,0,0,0,Casual Client
+94,0,0,0,0,0,0,Casual Client
+95,0,0,0,0,0,0,Casual Client
+96,0,0,0,1,0,0,Potential Good Client
+97,0,0,0,0,0,0,Casual Client
+98,1,0,0,0,0,0,Super Client
+99,0,0,0,0,0,0,Good Client
+100,0,0,0,0,0,0,Casual Client
+101,0,0,0,0,0,0,Casual Client
+102,0,0,0,0,0,0,Super Client
+103,0,0,0,0,0,0,Good Client
+104,0,0,0,0,0,1,Super Client
+105,0,0,0,0,0,0,Casual Client
+106,0,0,0,0,0,0,Potential Good Client
+107,0,0,0,0,0,0,Good Client
+108,0,0,0,0,0,0,Casual Client
+109,0,0,0,0,0,0,Good Client
+110,0,0,0,0,0,0,Super Client
+111,0,0,0,1,0,1,Good Client
+112,0,0,0,1,0,0,Potential Good Client
+113,0,0,0,1,1,1,Super Client
+114,0,0,0,0,0,0,Potential Good Client
+115,0,0,0,0,0,0,Casual Client
+116,1,0,0,0,1,0,Super Client
+117,0,0,0,0,0,0,Good Client
+118,0,0,0,0,0,0,Casual Client
+119,0,0,0,0,0,0,Casual Client
+120,0,0,0,0,0,0,Good Client
+121,0,0,0,0,0,1,Casual Client
+122,0,0,0,0,0,0,Casual Client
+123,0,0,0,0,0,0,Casual Client
+124,1,0,0,1,1,1,Super Client
+125,0,0,0,0,0,0,Good Client
+126,0,0,0,0,0,1,Super Client
+127,0,0,0,0,0,0,Casual Client
+128,0,0,0,0,0,0,Potential Good Client
+129,0,0,0,0,0,0,Good Client
+130,0,0,0,0,0,0,Good Client
+131,0,0,0,0,0,0,Potential Good Client
+132,0,0,0,0,0,0,Super Client
+133,0,0,0,0,0,0,Good Client
+134,0,0,0,0,0,0,Potential Good Client
+135,0,0,0,1,0,0,Super Client
+136,0,0,0,0,0,0,Casual Client
+137,0,0,0,0,0,0,Potential Good Client
+138,0,0,1,0,0,1,Casual Client
+139,0,0,0,0,0,0,Casual Client
+140,0,0,0,0,0,0,Super Client
+141,0,0,0,0,0,1,Good Client
+142,0,0,0,0,0,0,Super Client
+143,0,0,0,0,0,0,Good Client
+144,0,0,0,0,0,0,Casual Client
+145,0,0,0,0,0,0,Good Client
+146,0,0,0,0,0,1,Casual Client
+147,0,0,0,0,0,0,Casual Client
+148,0,0,0,0,0,0,Potential Good Client
+149,0,0,0,0,0,0,Casual Client
+150,0,0,0,0,0,0,Good Client
+151,0,0,0,1,0,0,Potential Good Client
+152,0,0,0,0,0,0,Potential Good Client
+153,0,0,0,0,0,0,Casual Client
+154,0,0,0,0,0,0,Good Client
+155,0,0,0,1,1,1,Good Client
+156,0,0,0,0,0,0,Casual Client
+157,0,0,0,0,0,0,Casual Client
+158,0,0,0,0,0,0,Casual Client
+159,0,0,0,0,0,0,Super Client
+160,0,0,0,0,0,0,Casual Client
+161,0,0,0,0,0,0,Good Client
+162,0,0,0,0,0,0,Casual Client
+163,0,0,0,0,0,0,Good Client
+164,0,0,0,0,0,0,Good Client
+165,0,0,0,0,0,0,Casual Client
+166,0,0,1,0,0,0,Good Client
+167,0,0,0,1,0,0,Casual Client
+168,0,0,0,0,0,0,Super Client
+169,0,0,0,0,0,0,Casual Client
+170,0,0,0,0,0,0,Casual Client
+171,0,0,0,0,0,0,Casual Client
+172,0,0,0,0,0,0,Casual Client
+173,0,0,0,0,0,0,Casual Client
+174,0,0,1,0,0,0,Casual Client
+175,0,0,0,0,0,0,Super Client
+176,1,0,0,1,0,1,Super Client
+177,0,0,0,0,0,0,Casual Client
+178,0,0,0,0,0,0,Casual Client
+179,1,0,0,0,0,0,Super Client
+180,0,0,0,0,0,0,Casual Client
+181,0,0,0,0,0,0,Casual Client
+182,0,0,0,0,0,0,Good Client
+183,0,0,0,0,0,0,Casual Client
+184,0,0,0,0,0,0,Casual Client
+185,0,0,0,0,0,0,Casual Client
+186,0,0,0,0,0,0,Casual Client
+187,0,0,0,0,0,0,Good Client
+188,0,0,0,0,0,0,Super Client
+189,0,0,0,0,0,0,Casual Client
+190,0,0,1,0,0,0,Casual Client
+191,0,0,0,0,0,0,Super Client
+192,0,0,0,0,0,0,Casual Client
+193,0,0,0,0,0,0,Potential Good Client
+194,0,0,0,0,0,0,Casual Client
+195,0,0,0,0,0,0,Good Client
+196,0,0,0,0,1,0,Super Client
+197,0,0,0,0,0,0,Super Client
+198,0,0,1,0,0,1,Potential Good Client
+199,0,0,0,1,0,0,Good Client
+200,0,0,0,0,0,0,Super Client
+201,0,0,0,0,0,0,Good Client
+202,1,0,0,1,1,1,Super Client
+203,0,0,0,0,0,0,Casual Client
+204,0,0,1,0,0,1,Casual Client
+205,0,0,1,0,0,0,Casual Client
+206,0,0,0,0,0,0,Potential Good Client
+207,0,0,0,0,0,0,Casual Client
+208,0,0,1,0,0,1,Good Client
+209,0,0,0,0,0,0,Potential Good Client
+210,0,0,0,0,0,0,Super Client
+211,0,0,0,0,0,0,Potential Good Client
+212,0,0,0,0,0,0,Potential Good Client
+213,0,0,0,0,0,0,Super Client
+214,0,0,0,0,0,0,Potential Good Client
+215,0,0,0,0,0,0,Casual Client
+216,0,0,0,1,1,0,Super Client
+217,0,0,0,0,0,0,Potential Good Client
+218,0,0,0,0,0,0,Good Client
+219,0,0,0,0,0,0,Casual Client
+220,0,0,0,0,0,0,Super Client
+221,0,0,0,0,0,0,Good Client
+222,0,0,0,0,0,0,Potential Good Client
+223,0,0,0,0,0,0,Good Client
+224,0,0,0,0,0,0,Casual Client
+225,0,0,0,0,0,0,Good Client
+226,0,0,0,0,0,0,Good Client
+227,0,0,0,0,0,0,Super Client
+228,0,0,0,0,0,0,Casual Client
+229,0,0,0,0,0,1,Potential Good Client
+230,0,0,0,0,1,0,Super Client
+231,0,0,0,0,0,0,Casual Client
+232,0,0,0,0,0,0,Casual Client
+233,0,0,0,0,0,0,Good Client
+234,0,0,0,0,0,0,Casual Client
+235,0,0,0,0,0,0,Casual Client
+236,0,0,0,0,0,0,Good Client
+237,0,0,0,0,0,0,Casual Client
+238,0,0,0,1,0,0,Super Client
+239,0,0,0,0,0,0,Super Client
+240,0,0,0,0,0,0,Casual Client
+241,1,0,0,0,0,1,Super Client
+242,0,0,0,0,0,0,Good Client
+243,0,0,0,0,0,0,Casual Client
+244,1,0,0,1,1,1,Good Client
+245,0,0,0,0,0,0,Good Client
+246,0,0,0,0,0,0,Super Client
+247,0,0,0,0,0,0,Good Client
+248,0,0,0,0,0,0,Casual Client
+249,0,0,0,0,0,0,Casual Client
+250,1,1,0,1,1,1,Super Client
+251,0,0,0,0,0,0,Casual Client
+252,0,0,0,0,0,0,Good Client
+253,0,0,0,0,0,0,Casual Client
+254,0,0,0,1,0,0,Good Client
+255,0,0,0,0,0,0,Casual Client
+256,0,0,0,0,0,0,Casual Client
+257,0,0,0,0,0,0,Casual Client
+258,0,0,1,0,0,1,Casual Client
+259,0,0,0,0,0,0,Good Client
+260,0,0,0,0,0,0,Potential Good Client
+261,0,0,0,0,0,0,Casual Client
+262,0,0,0,0,0,1,Potential Good Client
+263,0,0,0,0,0,0,Potential Good Client
+264,0,0,1,0,0,0,Super Client
+265,0,0,1,0,0,1,Potential Good Client
+266,0,0,0,0,0,0,Super Client
+267,0,0,0,0,0,0,Casual Client
+268,0,0,0,0,0,1,Super Client
+269,0,0,0,0,0,0,Casual Client
+270,0,0,0,0,0,0,Casual Client
+271,0,0,0,0,0,0,Casual Client
+272,0,0,0,0,0,0,Casual Client
+273,0,0,0,0,0,0,Good Client
+274,0,0,0,0,0,1,Super Client
+275,0,0,0,0,0,0,Super Client
+276,1,0,0,0,0,1,Super Client
+277,0,0,0,0,0,0,Good Client
+278,0,0,0,0,0,0,Casual Client
+279,0,0,0,0,0,0,Good Client
+280,0,0,0,0,0,0,Casual Client
+281,0,0,0,0,0,0,Good Client
+282,0,0,0,0,0,0,Casual Client
+283,0,0,0,0,0,0,Casual Client
+284,0,0,0,0,0,0,Super Client
+285,0,0,0,0,0,0,Potential Good Client
+286,0,0,0,0,0,0,Super Client
+287,0,0,0,0,0,0,Potential Good Client
+288,0,0,1,0,0,0,Casual Client
+289,0,0,0,0,0,0,Casual Client
+290,0,0,0,0,1,0,Super Client
+291,0,0,0,0,0,0,Casual Client
+292,0,0,0,0,0,0,Casual Client
+293,0,1,0,1,0,0,Good Client
+294,0,0,0,0,0,0,Casual Client
+295,0,0,0,0,0,0,Casual Client
+296,0,0,0,0,0,0,Super Client
+297,0,0,0,1,0,0,Good Client
+298,0,0,0,0,0,0,Casual Client
+299,0,0,0,0,0,0,Good Client
+300,0,0,0,0,0,0,Casual Client
+301,0,0,0,0,0,0,Casual Client
+302,0,0,0,0,0,0,Casual Client
+303,1,0,0,0,0,0,Super Client
+304,0,0,0,0,0,1,Casual Client
+305,0,0,0,0,1,0,Super Client
+306,0,0,0,1,0,0,Potential Good Client
+307,0,0,0,0,0,0,Casual Client
+308,0,0,0,0,0,0,Casual Client
+309,0,0,0,0,0,0,Casual Client
+310,1,0,0,1,0,0,Super Client
+311,0,0,0,0,0,0,Super Client
+312,0,0,0,0,0,0,Potential Good Client
+313,0,0,0,0,0,0,Casual Client
+314,0,0,0,0,0,0,Casual Client
+315,0,0,0,0,0,0,Good Client
+316,0,0,0,0,0,0,Casual Client
+317,1,0,0,1,0,0,Potential Good Client
+318,0,0,0,0,0,0,Good Client
+319,0,0,0,0,0,0,Casual Client
+320,0,0,0,0,0,0,Casual Client
+321,0,0,0,0,0,0,Good Client
+322,0,0,0,0,0,0,Potential Good Client
+323,0,0,0,0,0,0,Super Client
+324,0,0,0,0,0,0,Casual Client
+325,0,0,0,0,0,0,Casual Client
+326,0,0,0,0,0,0,Casual Client
+327,0,0,0,0,0,0,Casual Client
+328,0,0,0,0,0,0,Casual Client
+329,0,0,0,0,0,0,Casual Client
+330,0,0,0,0,0,1,Good Client
+331,0,0,1,0,0,1,Casual Client
+332,0,0,0,0,0,0,Casual Client
+333,0,0,0,0,0,0,Good Client
+334,1,0,0,1,1,1,Super Client
+335,0,0,0,0,0,0,Casual Client
+336,0,0,0,0,1,1,Super Client
+337,0,0,0,0,0,0,Super Client
+338,0,0,0,0,0,0,Casual Client
+339,0,1,0,1,0,0,Good Client
+340,0,0,0,0,0,0,Good Client
+341,0,0,1,0,0,1,Casual Client
+342,0,0,0,0,0,0,Super Client
+343,0,0,0,0,0,0,Casual Client
+344,0,0,0,0,0,1,Super Client
+345,0,0,0,0,0,0,Casual Client
+346,0,0,1,0,0,0,Casual Client
+347,0,0,0,0,0,0,Good Client
+348,0,0,1,0,1,0,Super Client
+349,0,0,0,0,0,1,Good Client
+350,0,0,0,0,0,0,Super Client
+351,0,0,0,0,0,0,Good Client
+352,0,0,0,0,0,0,Casual Client
+353,0,0,0,1,0,0,Casual Client
+354,0,0,0,0,0,0,Super Client
+355,0,0,0,0,0,0,Good Client
+356,0,0,0,0,0,0,Potential Good Client
+357,0,0,0,1,0,0,Super Client
+358,0,0,0,0,0,0,Good Client
+359,0,0,0,0,0,0,Casual Client
+360,0,0,0,0,0,0,Casual Client
+361,0,0,0,0,0,0,Potential Good Client
+362,0,0,0,0,0,0,Good Client
+363,0,0,0,0,0,0,Super Client
+364,0,0,0,0,0,0,Casual Client
+365,0,0,0,0,0,0,Super Client
+366,0,0,0,0,0,0,Good Client
+367,0,0,0,0,0,0,Casual Client
+368,0,0,0,0,0,0,Potential Good Client
+369,0,0,1,0,0,0,Casual Client
+370,0,0,0,1,0,0,Good Client
+371,0,0,0,0,0,1,Casual Client
+372,0,0,0,0,0,0,Potential Good Client
+373,0,0,1,0,0,1,Casual Client
+374,0,0,0,0,0,0,Casual Client
+375,0,0,0,0,0,0,Good Client
+376,0,0,0,0,0,0,Casual Client
+377,0,0,0,0,0,0,Casual Client
+378,0,0,0,0,0,0,Casual Client
+379,0,0,0,0,0,0,Potential Good Client
+380,0,0,0,0,0,0,Potential Good Client
+381,0,0,0,0,0,0,Casual Client
+382,0,0,0,0,0,0,Casual Client
+383,0,0,0,1,0,1,Potential Good Client
+384,0,0,0,0,0,0,Good Client
+385,0,0,0,0,0,0,Casual Client
+386,0,0,0,0,0,0,Good Client
+387,0,0,0,0,1,0,Super Client
+388,0,0,0,0,0,0,Casual Client
+389,0,0,0,0,0,0,Super Client
+390,0,0,0,0,0,0,Potential Good Client
+391,0,0,0,0,0,0,Good Client
+392,0,0,0,0,0,0,Super Client
+393,0,0,0,0,0,0,Potential Good Client
+394,0,0,0,0,0,1,Casual Client
+395,0,0,0,0,0,0,Casual Client
+396,0,0,0,0,0,1,Casual Client
+397,0,0,0,0,0,0,Casual Client
+398,0,0,0,0,0,0,Super Client
+399,0,0,0,0,0,0,Casual Client
+400,0,0,0,0,0,0,Casual Client
+401,0,0,0,1,0,1,Potential Good Client
+402,0,0,0,0,0,0,Casual Client
+403,0,0,0,0,0,1,Casual Client
+404,0,0,0,0,0,0,Potential Good Client
+405,0,0,0,0,0,0,Casual Client
+406,0,0,0,0,0,0,Potential Good Client
+407,0,0,0,0,0,1,Casual Client
+408,0,0,0,0,0,0,Good Client
+409,1,0,0,0,0,0,Good Client
+410,0,0,0,0,0,0,Casual Client
+411,0,0,0,0,0,0,Good Client
+412,0,0,0,0,0,0,Super Client
+413,0,0,1,0,0,0,Casual Client
+414,1,1,0,1,1,0,Super Client
+415,1,0,0,0,1,1,Super Client
+416,0,0,0,0,0,0,Potential Good Client
+417,0,0,0,0,0,0,Casual Client
+418,0,0,0,0,0,0,Casual Client
+419,0,0,0,0,0,0,Casual Client
+420,0,0,0,1,1,1,Super Client
+421,0,0,0,0,1,0,Super Client
+422,0,0,0,0,0,0,Casual Client
+423,1,0,0,1,1,0,Super Client
+424,1,0,0,1,0,0,Good Client
+425,0,0,0,0,0,0,Casual Client
+426,0,0,0,0,0,0,Super Client
+427,1,1,0,1,1,1,Super Client
+428,0,0,0,0,0,0,Potential Good Client
+429,0,0,0,0,0,0,Good Client
+430,0,0,0,0,0,0,Super Client
+431,0,0,0,0,0,0,Casual Client
+432,0,0,0,0,0,0,Casual Client
+433,0,0,0,0,0,0,Good Client
+434,0,0,0,0,0,0,Potential Good Client
+435,0,0,0,0,0,0,Casual Client
+436,0,0,0,0,0,0,Casual Client
+437,0,0,0,0,0,0,Casual Client
+438,0,0,0,0,0,0,Casual Client
+439,0,0,0,0,0,0,Casual Client
+440,0,0,0,0,0,0,Casual Client
+441,0,0,0,0,0,0,Casual Client
+442,0,0,0,0,0,0,Casual Client
+443,0,0,0,0,0,0,Potential Good Client
+444,1,0,1,0,0,0,Super Client
+445,0,0,0,0,0,0,Casual Client
+446,0,0,0,0,0,0,Good Client
+447,0,0,0,0,0,0,Good Client
+448,0,0,0,0,0,0,Good Client
+449,0,0,0,0,0,0,Casual Client
+450,0,0,0,0,0,0,Good Client
+451,0,0,0,0,0,0,Good Client
+452,0,0,0,0,0,0,Potential Good Client
+453,1,0,0,1,0,1,Super Client
+454,0,0,1,0,0,1,Potential Good Client
+455,0,0,0,0,0,0,Casual Client
+456,0,0,0,0,0,0,Super Client
+457,1,0,0,0,0,1,Good Client
+458,0,0,0,0,0,0,Super Client
+459,0,0,0,0,0,0,Potential Good Client
+460,0,0,1,0,0,0,Super Client
+461,0,0,0,0,0,0,Casual Client
+462,0,0,0,0,0,0,Super Client
+463,0,0,0,1,1,1,Super Client
+464,0,0,0,0,0,0,Casual Client
+465,0,0,0,0,0,0,Potential Good Client
+466,0,0,0,0,0,0,Good Client
+467,0,0,0,0,0,0,Super Client
+468,0,0,0,0,0,1,Casual Client
+469,0,0,0,1,0,1,Good Client
+470,0,0,0,0,0,0,Casual Client
+471,0,0,0,0,0,0,Casual Client
+472,0,0,0,0,0,0,Good Client
+473,0,0,0,0,0,0,Casual Client
+474,0,0,0,0,0,0,Good Client
+475,0,0,0,0,0,0,Potential Good Client
+476,0,0,0,0,0,0,Potential Good Client
+477,0,0,0,0,0,0,Casual Client
+478,0,0,0,0,0,0,Casual Client
+479,0,0,1,0,0,1,Casual Client
+480,0,0,0,0,0,0,Casual Client
+481,0,0,0,0,0,0,Good Client
+482,0,0,0,0,0,1,Super Client
+483,0,0,0,0,0,0,Good Client
+484,0,0,0,0,0,0,Good Client
+485,0,0,0,0,0,0,Casual Client
+486,0,0,0,0,0,0,Casual Client
+487,0,0,0,0,0,0,Super Client
+488,0,0,0,0,0,0,Potential Good Client
+489,1,0,0,0,0,0,Super Client
+490,0,0,0,0,0,0,Potential Good Client
+491,0,0,0,1,0,0,Good Client
+492,0,0,0,0,0,0,Good Client
+493,0,0,0,0,0,0,Casual Client
+494,0,0,0,0,0,0,Good Client
+495,0,0,0,0,0,0,Good Client
+496,0,0,0,0,0,0,Good Client
+497,0,0,0,0,0,0,Casual Client
+498,0,0,0,0,0,0,Casual Client
+499,0,0,0,0,0,0,Casual Client
+500,0,0,0,0,0,0,Good Client
+501,0,0,0,0,0,0,Casual Client
+502,0,0,0,0,0,0,Good Client
+503,0,0,0,0,0,0,Super Client
+504,0,0,0,0,0,0,Super Client
+505,0,0,0,0,0,0,Casual Client
+506,0,0,0,0,0,0,Good Client
+507,0,0,1,0,0,0,Potential Good Client
+508,0,0,0,0,0,0,Super Client
+509,0,0,0,1,0,0,Potential Good Client
+510,0,0,0,0,1,0,Super Client
+511,0,0,0,0,0,0,Potential Good Client
+512,0,0,0,0,0,0,Super Client
+513,0,0,0,0,0,0,Casual Client
+514,0,0,0,0,0,0,Casual Client
+515,0,0,0,0,0,0,Super Client
+516,1,0,0,0,1,0,Super Client
+517,0,0,0,0,0,0,Casual Client
+518,0,0,1,0,0,0,Super Client
+519,0,0,0,0,0,0,Casual Client
+520,0,0,0,1,1,0,Good Client
+521,0,0,0,0,0,1,Casual Client
+522,0,0,0,0,0,0,Casual Client
+523,0,0,0,0,0,0,Good Client
+524,0,0,0,0,0,0,Good Client
+525,0,0,0,0,0,0,Super Client
+526,0,0,0,0,0,0,Potential Good Client
+527,0,0,0,0,0,0,Good Client
+528,0,0,0,0,0,0,Super Client
+529,0,0,0,1,0,0,Potential Good Client
+530,0,0,0,0,0,0,Casual Client
+531,0,0,0,0,0,0,Casual Client
+532,0,0,0,0,0,0,Potential Good Client
+533,0,0,0,0,0,0,Casual Client
+534,0,0,0,0,1,1,Super Client
+535,0,0,0,0,0,0,Casual Client
+536,0,0,0,0,0,0,Casual Client
+537,0,0,0,0,0,0,Casual Client
+538,0,0,0,0,0,0,Casual Client
+539,0,0,0,0,0,0,Potential Good Client
+540,0,0,0,1,1,1,Super Client
+541,0,0,0,0,0,0,Good Client
+542,0,0,0,0,0,0,Casual Client
+543,0,0,0,0,0,1,Super Client
+544,0,0,0,0,0,0,Casual Client
+545,0,0,1,0,0,1,Casual Client
+546,0,0,0,0,0,0,Casual Client
+547,0,0,0,0,0,0,Casual Client
+548,0,0,1,0,0,1,Casual Client
+549,0,0,0,0,0,0,Potential Good Client
+550,0,0,0,0,0,0,Casual Client
+551,0,0,0,0,0,1,Super Client
+552,0,0,0,0,0,0,Potential Good Client
+553,0,0,0,0,0,0,Good Client
+554,0,0,0,0,1,0,Super Client
+555,0,0,0,0,0,0,Casual Client
+556,1,1,0,1,1,1,Super Client
+557,0,0,0,0,0,0,Casual Client
+558,0,0,0,0,0,0,Super Client
+559,0,0,0,0,0,0,Good Client
+560,0,0,0,0,0,0,Super Client
+561,0,0,0,0,0,0,Potential Good Client
+562,0,0,0,0,0,0,Potential Good Client
+563,0,0,0,0,0,0,Good Client
+564,0,0,0,0,0,0,Casual Client
+565,0,0,0,0,0,0,Casual Client
+566,0,0,0,0,0,0,Casual Client
+567,0,0,0,0,0,0,Potential Good Client
+568,0,0,0,0,0,0,Casual Client
+569,0,0,0,0,0,0,Casual Client
+570,0,0,0,0,0,0,Potential Good Client
+571,0,0,0,0,0,0,Casual Client
+572,1,1,0,1,0,1,Good Client
+573,0,0,0,0,0,0,Casual Client
+574,0,0,0,0,0,0,Casual Client
+575,0,0,0,0,0,0,Casual Client
+576,0,0,0,0,0,0,Potential Good Client
+577,0,0,0,1,0,0,Potential Good Client
+578,0,0,0,0,0,0,Potential Good Client
+579,0,0,0,0,0,0,Casual Client
+580,0,0,0,0,0,0,Casual Client
+581,0,0,0,0,0,0,Casual Client
+582,0,0,0,0,0,0,Casual Client
+583,1,0,1,0,1,1,Super Client
+584,0,0,0,0,0,0,Good Client
+585,0,0,0,1,0,0,Potential Good Client
+586,0,0,0,0,0,0,Casual Client
+587,0,0,0,0,0,1,Casual Client
+588,1,0,0,0,1,1,Super Client
+589,0,0,0,0,0,0,Super Client
+590,0,0,0,0,0,0,Casual Client
+591,0,0,0,0,0,0,Good Client
+592,0,0,0,0,0,1,Casual Client
+593,0,0,0,0,0,0,Casual Client
+594,0,0,0,0,0,0,Casual Client
+595,0,0,0,0,0,0,Casual Client
+596,0,0,0,0,0,0,Casual Client
+597,0,0,0,0,0,0,Casual Client
+598,0,0,0,0,0,0,Good Client
+599,0,0,0,0,0,0,Super Client
+600,0,0,0,0,0,0,Potential Good Client
+601,0,0,0,0,0,0,Potential Good Client
+602,0,0,0,0,0,1,Potential Good Client
+603,0,0,0,0,0,0,Casual Client
+604,0,0,0,0,0,0,Casual Client
+605,0,0,0,0,0,0,Casual Client
+606,1,0,0,0,0,0,Super Client
+607,0,0,0,0,0,0,Casual Client
+608,0,0,0,0,0,0,Potential Good Client
+609,0,0,0,0,0,0,Casual Client
+610,0,0,0,0,0,0,Casual Client
+611,0,0,0,0,0,1,Good Client
+612,0,0,0,0,0,0,Potential Good Client
+613,0,0,0,0,0,0,Casual Client
+614,0,0,0,0,0,0,Casual Client
+615,0,0,0,0,0,0,Casual Client
+616,0,0,0,0,0,0,Potential Good Client
+617,0,0,0,0,0,0,Potential Good Client
+618,0,0,0,0,0,0,Casual Client
+619,0,0,0,1,1,0,Super Client
+620,0,0,0,0,0,0,Casual Client
+621,1,0,0,0,0,0,Super Client
+622,0,0,0,0,0,0,Casual Client
+623,0,0,0,0,0,0,Super Client
+624,0,0,0,0,0,1,Good Client
+625,0,0,0,0,0,0,Potential Good Client
+626,0,0,0,0,0,0,Casual Client
+627,0,0,0,0,0,0,Good Client
+628,0,0,0,0,0,0,Good Client
+629,0,0,0,0,0,0,Super Client
+630,0,0,1,0,0,1,Casual Client
+631,0,0,0,0,0,1,Super Client
+632,0,0,0,0,0,0,Casual Client
+633,0,0,0,0,0,0,Super Client
+634,0,0,0,0,0,0,Good Client
+635,0,0,0,0,0,1,Good Client
+636,0,0,1,0,0,0,Good Client
+637,0,0,0,0,0,0,Good Client
+638,0,0,0,0,0,0,Super Client
+639,0,0,0,0,0,0,Good Client
+640,0,0,1,0,0,0,Good Client
+641,0,0,0,1,1,1,Super Client
+642,0,0,0,0,0,0,Potential Good Client
+643,1,0,0,0,1,1,Super Client
+644,0,0,0,0,0,0,Casual Client
+645,0,0,0,0,0,0,Good Client
+646,0,0,0,0,0,0,Good Client
+647,0,0,0,1,0,0,Super Client
+648,0,0,0,0,0,0,Casual Client
+649,0,0,0,0,0,0,Good Client
+650,0,0,0,0,0,0,Casual Client
+651,0,0,0,0,0,0,Potential Good Client
+652,0,0,0,0,0,0,Casual Client
+653,0,0,0,0,0,0,Casual Client
+654,0,0,0,0,0,0,Casual Client
+655,0,0,0,0,0,0,Good Client
+656,0,0,1,0,0,0,Potential Good Client
+657,0,0,0,0,0,0,Potential Good Client
+658,0,0,0,0,0,0,Casual Client
+659,0,0,0,0,0,0,Super Client
+660,0,0,0,0,0,0,Casual Client
+661,0,0,0,0,0,0,Casual Client
+662,0,0,0,0,0,0,Casual Client
+663,0,0,0,0,0,0,Casual Client
+664,0,0,0,0,0,0,Casual Client
+665,0,0,0,0,0,0,Casual Client
+666,0,0,0,0,0,0,Casual Client
+667,0,0,0,0,0,0,Good Client
+668,0,0,0,0,0,0,Potential Good Client
+669,0,0,0,0,0,0,Good Client
+670,0,0,0,0,0,0,Good Client
+671,0,0,0,0,0,0,Good Client
+672,0,0,0,0,0,0,Casual Client
+673,1,0,0,0,0,1,Good Client
+674,0,0,0,0,0,0,Super Client
+675,0,0,1,0,0,1,Casual Client
+676,0,0,0,0,0,0,Super Client
+677,0,0,0,0,0,0,Good Client
+678,0,0,0,0,0,0,Super Client
+679,0,0,0,0,0,0,Good Client
+680,0,0,0,0,0,0,Casual Client
+681,0,0,0,0,0,0,Super Client
+682,0,0,0,0,0,0,Good Client
+683,0,0,0,0,0,1,Super Client
+684,0,0,0,0,0,0,Good Client
+685,1,0,0,0,1,0,Super Client
+686,0,0,0,0,0,0,Super Client
+687,0,0,0,1,0,1,Potential Good Client
+688,0,0,0,0,0,0,Super Client
+689,0,0,0,0,0,0,Potential Good Client
+690,0,0,0,0,0,0,Casual Client
+691,0,0,0,0,0,1,Potential Good Client
+692,0,0,0,0,0,0,Casual Client
+693,0,0,0,0,0,0,Casual Client
+694,0,0,0,0,0,1,Casual Client
+695,0,0,0,0,0,0,Good Client
+696,1,0,0,0,0,0,Super Client
+697,0,0,0,0,0,0,Good Client
+698,0,0,0,0,0,0,Good Client
+699,0,0,1,0,0,0,Good Client
+700,1,0,0,1,1,1,Super Client
+701,0,0,0,0,0,0,Potential Good Client
+702,0,0,1,0,1,0,Super Client
+703,0,0,0,0,0,0,Casual Client
+704,0,0,0,0,0,0,Good Client
+705,0,0,1,0,0,0,Good Client
+706,0,0,1,0,0,1,Casual Client
+707,0,0,0,0,0,0,Casual Client
+708,0,0,0,0,0,0,Good Client
+709,0,0,0,0,0,0,Casual Client
+710,0,0,0,0,0,0,Good Client
+711,0,0,0,0,0,0,Casual Client
+712,0,0,0,0,0,0,Super Client
+713,0,0,0,0,1,1,Super Client
+714,0,0,0,0,0,0,Casual Client
+715,0,0,0,0,0,0,Good Client
+716,0,0,0,0,0,0,Casual Client
+717,0,0,0,0,0,0,Good Client
+718,0,0,0,0,0,0,Good Client
+719,0,0,0,0,0,0,Casual Client
+720,0,0,0,0,0,0,Super Client
+721,0,0,1,0,0,1,Potential Good Client
+722,0,0,0,0,0,0,Casual Client
+723,1,0,0,0,0,0,Super Client
+724,0,0,0,0,0,0,Super Client
+725,0,0,0,0,0,0,Potential Good Client
+726,0,0,0,0,1,0,Super Client
+727,0,0,0,0,0,0,Casual Client
+728,0,0,0,0,0,0,Potential Good Client
+729,0,0,0,0,0,0,Potential Good Client
+730,0,0,0,0,0,0,Potential Good Client
+731,1,0,0,1,1,0,Good Client
+732,1,0,0,1,1,1,Super Client
+733,0,0,0,0,0,0,Super Client
+734,0,0,0,0,0,0,Good Client
+735,0,0,0,0,0,0,Casual Client
+736,0,0,0,0,0,0,Super Client
+737,0,0,0,0,0,0,Good Client
+738,0,0,0,0,0,0,Potential Good Client
+739,0,0,0,0,0,0,Potential Good Client
+740,0,0,0,0,0,0,Casual Client
+741,1,0,0,0,0,0,Super Client
+742,0,0,0,0,1,0,Super Client
+743,0,0,0,0,0,0,Casual Client
+744,0,0,0,0,0,0,Super Client
+745,0,0,1,0,0,0,Casual Client
+746,0,0,1,0,0,1,Super Client
+747,0,0,0,0,0,0,Super Client
+748,0,0,0,0,0,0,Potential Good Client
+749,0,0,0,0,0,0,Super Client
+750,1,0,0,1,1,1,Super Client
+751,0,0,0,0,0,0,Super Client
+752,0,0,0,0,0,0,Super Client
+753,0,0,0,0,0,1,Good Client
+754,0,0,0,0,0,0,Good Client
+755,0,0,0,0,0,0,Casual Client
+756,0,0,0,0,0,0,Casual Client
+757,0,0,0,0,0,0,Casual Client
+758,0,0,0,0,0,0,Good Client
+759,0,0,0,0,0,0,Super Client
+760,0,0,1,0,0,1,Casual Client
+761,0,0,0,0,0,0,Super Client
+762,0,0,0,0,0,0,Casual Client
+763,0,0,0,0,0,0,Super Client
+764,0,0,0,0,0,0,Super Client
+765,0,0,0,0,0,0,Casual Client
+766,0,0,0,0,0,0,Potential Good Client
+767,0,0,0,0,0,0,Good Client
+768,0,0,0,0,0,0,Super Client
+769,0,0,0,0,0,1,Potential Good Client
+770,0,0,0,0,0,0,Casual Client
+771,0,0,0,0,0,0,Casual Client
+772,0,0,0,0,0,0,Casual Client
+773,0,0,0,0,0,0,Casual Client
+774,0,0,0,0,0,0,Super Client
+775,0,0,0,0,0,0,Casual Client
+776,0,0,0,0,0,0,Super Client
+777,0,0,0,0,0,0,Super Client
+778,0,0,0,0,0,0,Casual Client
+779,0,0,0,0,0,0,Casual Client
+780,0,0,0,0,0,0,Casual Client
+781,0,0,0,0,0,0,Casual Client
+782,0,0,0,0,0,0,Casual Client
+783,0,0,0,0,0,0,Potential Good Client
+784,0,0,1,0,0,1,Good Client
+785,0,0,1,0,0,0,Potential Good Client
+786,0,0,0,0,0,0,Potential Good Client
+787,0,0,0,0,0,0,Super Client
+788,1,0,0,1,1,1,Good Client
+789,0,0,1,0,0,0,Casual Client
+790,0,0,0,0,0,0,Casual Client
+791,0,0,0,0,0,0,Casual Client
+792,0,0,0,1,0,0,Casual Client
+793,0,0,0,0,0,0,Good Client
+794,0,0,0,0,0,0,Good Client
+795,0,0,0,0,0,0,Super Client
+796,0,0,0,0,0,0,Casual Client
+797,0,0,0,0,0,0,Good Client
+798,0,0,0,0,0,0,Casual Client
+799,0,0,0,0,0,0,Casual Client
+800,0,0,0,0,0,0,Super Client
+801,1,1,0,1,0,1,Super Client
+802,0,0,0,0,0,0,Potential Good Client
+803,0,0,0,0,0,0,Casual Client
+804,0,0,0,0,0,0,Potential Good Client
+805,0,0,0,1,0,0,Potential Good Client
+806,0,0,0,0,0,0,Super Client
+807,0,0,0,0,0,0,Casual Client
+808,0,0,0,0,0,1,Casual Client
+809,0,0,0,0,0,0,Super Client
+810,0,0,0,0,0,0,Good Client
+811,0,0,0,0,0,0,Super Client
+812,0,0,0,0,0,0,Good Client
+813,0,0,0,0,0,0,Casual Client
+814,0,0,0,0,0,0,Good Client
+815,0,0,0,0,0,0,Good Client
+816,0,0,0,0,0,0,Casual Client
+817,1,0,0,0,1,1,Super Client
+818,0,0,0,0,0,0,Casual Client
+819,0,1,0,0,0,1,Good Client
+820,0,0,0,0,0,0,Casual Client
+821,1,1,0,1,1,1,Super Client
+822,0,0,0,0,0,0,Super Client
+823,0,0,0,1,1,0,Good Client
+824,0,0,0,0,0,0,Casual Client
+825,0,0,0,0,0,0,Good Client
+826,0,0,0,0,0,0,Casual Client
+827,0,0,0,0,0,0,Casual Client
+828,0,0,0,0,0,0,Good Client
+829,0,0,0,0,0,0,Potential Good Client
+830,0,0,0,0,0,0,Casual Client
+831,0,0,0,0,0,0,Casual Client
+832,0,0,0,0,0,0,Good Client
+833,0,0,0,0,0,0,Potential Good Client
+834,0,0,0,0,0,0,Super Client
+835,0,0,0,0,0,0,Casual Client
+836,0,0,1,0,0,0,Good Client
+837,0,0,0,0,0,0,Casual Client
+838,0,0,0,0,0,0,Casual Client
+839,0,0,0,0,0,0,Casual Client
+840,0,0,0,0,0,0,Casual Client
+841,0,0,0,0,0,0,Super Client
+842,0,1,1,0,1,1,Super Client
+843,0,0,0,0,0,0,Super Client
+844,0,0,0,0,0,0,Good Client
+845,0,0,0,0,0,0,Casual Client
+846,0,0,0,0,0,0,Casual Client
+847,0,0,0,0,0,0,Casual Client
+848,0,0,0,0,0,0,Good Client
+849,1,0,1,0,0,0,Super Client
+850,0,0,1,0,0,0,Casual Client
+851,1,0,0,1,0,1,Potential Good Client
+852,0,0,0,0,0,0,Good Client
+853,0,0,0,0,0,0,Casual Client
+854,0,0,0,0,0,0,Good Client
+855,0,0,0,0,0,0,Casual Client
+856,0,0,0,0,1,0,Super Client
+857,0,0,0,0,0,0,Casual Client
+858,0,0,0,0,0,0,Potential Good Client
+859,0,0,0,0,0,0,Casual Client
+860,0,0,0,0,0,0,Potential Good Client
+861,0,0,0,0,0,0,Casual Client
+862,0,0,0,0,0,0,Potential Good Client
+863,0,0,0,0,0,0,Potential Good Client
+864,0,0,0,0,0,0,Casual Client
+865,0,0,0,0,0,0,Good Client
+866,0,0,0,0,0,0,Casual Client
+867,0,1,0,1,0,0,Good Client
+868,0,0,0,1,0,0,Good Client
+869,0,0,0,0,0,0,Casual Client
+870,0,0,0,0,0,0,Casual Client
+871,0,0,0,0,0,0,Good Client
+872,1,0,1,0,1,0,Super Client
+873,0,0,0,0,0,0,Potential Good Client
+874,0,0,0,0,0,0,Casual Client
+875,0,0,0,0,0,0,Super Client
+876,0,0,0,0,0,0,Casual Client
+877,0,0,1,0,0,1,Casual Client
+878,0,0,0,0,0,0,Casual Client
+879,0,0,0,0,0,0,Casual Client
+880,0,0,0,0,0,0,Casual Client
+881,0,0,0,0,0,1,Super Client
+882,0,0,0,0,0,0,Super Client
+883,0,0,0,0,0,0,Potential Good Client
+884,0,0,0,0,0,0,Casual Client
+885,0,0,0,0,0,0,Potential Good Client
+886,0,0,0,0,0,0,Super Client
+887,0,0,1,0,0,0,Casual Client
+888,0,0,0,0,0,0,Potential Good Client
+889,0,0,0,0,0,0,Super Client
+890,0,0,0,0,0,0,Casual Client
+891,0,0,1,0,0,1,Good Client
+892,0,0,0,0,0,0,Good Client
+893,0,0,0,0,0,1,Good Client
+894,0,0,0,0,0,0,Super Client
+895,0,0,0,0,0,0,Potential Good Client
+896,0,0,0,0,0,0,Casual Client
+897,0,0,0,0,0,0,Super Client
+898,0,0,0,0,0,0,Casual Client
+899,0,0,0,0,0,0,Super Client
+900,0,0,0,0,0,0,Good Client
+901,0,0,0,0,0,0,Potential Good Client
+902,0,0,0,0,0,0,Super Client
+903,1,0,0,0,0,1,Super Client
+904,0,0,0,0,0,0,Casual Client
+905,0,0,0,0,0,0,Casual Client
+906,0,0,0,0,0,0,Casual Client
+907,0,0,0,0,0,0,Super Client
+908,0,0,0,0,0,0,Super Client
+909,0,0,0,0,0,1,Good Client
+910,0,0,0,0,0,1,Casual Client
+911,0,0,0,0,1,1,Super Client
+912,0,0,0,0,0,0,Super Client
+913,0,0,0,0,0,0,Good Client
+914,0,0,0,1,1,1,Super Client
+915,0,0,0,0,0,0,Casual Client
+916,1,0,0,0,0,0,Super Client
+917,0,1,1,0,0,0,Casual Client
+918,0,0,0,0,0,0,Super Client
+919,0,0,0,0,0,1,Casual Client
+920,0,0,0,0,0,0,Casual Client
+921,1,0,0,0,0,0,Super Client
+922,0,0,0,0,0,0,Potential Good Client
+923,1,0,0,0,0,0,Super Client
+924,0,0,0,1,0,0,Super Client
+925,0,0,0,0,0,0,Super Client
+926,0,0,0,0,0,0,Super Client
+927,0,0,0,0,0,0,Super Client
+928,0,0,0,0,0,0,Casual Client
+929,0,0,0,1,0,0,Good Client
+930,0,0,0,0,0,0,Casual Client
+931,0,0,0,0,0,0,Super Client
+932,0,0,0,0,0,0,Casual Client
+933,0,0,0,0,0,0,Super Client
+934,1,0,0,0,0,0,Good Client
+935,0,0,0,0,0,0,Good Client
+936,0,0,0,0,0,0,Good Client
+937,0,0,0,0,0,0,Good Client
+938,0,0,0,0,0,0,Good Client
+939,0,0,0,0,1,1,Super Client
+940,1,0,0,1,1,1,Super Client
+941,0,0,0,0,0,0,Casual Client
+942,0,0,0,1,1,0,Good Client
+943,0,0,0,0,0,0,Good Client
+944,0,0,0,0,0,0,Casual Client
+945,0,0,0,0,0,0,Casual Client
+946,0,0,0,0,0,0,Good Client
+947,0,0,0,0,0,0,Casual Client
+948,0,0,1,0,0,0,Casual Client
+949,0,0,0,0,0,1,Potential Good Client
+950,0,0,0,0,0,0,Casual Client
+951,0,0,0,0,0,0,Casual Client
+952,0,0,0,0,0,0,Potential Good Client
+953,0,0,0,0,0,1,Good Client
+954,0,0,0,0,0,0,Good Client
+955,0,0,0,0,0,0,Casual Client
+956,0,0,0,0,0,0,Potential Good Client
+957,0,0,0,0,0,0,Super Client
+958,0,0,0,0,0,0,Good Client
+959,0,0,0,0,0,1,Casual Client
+960,0,0,0,0,0,0,Potential Good Client
+961,0,0,0,0,0,0,Potential Good Client
+962,0,0,0,0,0,0,Good Client
+963,1,0,0,0,1,1,Super Client
+964,0,0,0,0,0,0,Casual Client
+965,0,0,0,0,0,1,Casual Client
+966,0,0,0,0,0,0,Good Client
+967,0,0,0,0,0,0,Super Client
+968,0,0,0,0,0,0,Potential Good Client
+969,0,0,0,0,0,0,Casual Client
+970,0,0,0,0,0,0,Good Client
+971,0,0,0,0,0,0,Super Client
+972,0,0,0,0,0,0,Super Client
+973,0,0,0,0,1,0,Super Client
+974,0,0,0,0,0,0,Potential Good Client
+975,0,0,0,0,0,0,Casual Client
+976,0,0,1,0,0,0,Good Client
+977,0,0,0,0,0,0,Casual Client
+978,0,0,0,0,0,0,Casual Client
+979,0,0,0,0,0,0,Casual Client
+980,0,0,0,0,0,0,Good Client
+981,1,0,0,0,1,1,Super Client
+982,0,0,0,0,0,0,Potential Good Client
+983,0,0,0,0,0,0,Super Client
+984,1,0,1,0,1,1,Super Client
+985,0,0,0,0,0,0,Super Client
+986,0,0,0,0,0,0,Casual Client
+987,1,1,0,1,1,1,Super Client
+988,0,0,0,0,0,0,Casual Client
+989,0,0,1,0,0,0,Potential Good Client
+990,0,0,0,0,0,0,Good Client
+991,0,0,0,0,0,0,Casual Client
+992,0,0,0,0,0,0,Casual Client
+993,1,0,0,0,0,0,Super Client
+994,0,0,0,0,0,0,Casual Client
+995,0,0,1,0,0,0,Good Client
+996,0,0,0,0,0,0,Potential Good Client
+997,0,0,0,1,1,1,Good Client
+998,1,0,0,0,1,1,Super Client
+999,1,0,1,0,0,1,Potential Good Client
+1000,0,0,0,0,0,0,Casual Client
+1001,0,0,0,0,0,0,Potential Good Client
+1002,0,0,1,0,0,1,Good Client
+1003,0,0,0,0,0,0,Good Client
+1004,0,0,0,0,1,0,Super Client
+1005,0,0,1,0,0,0,Casual Client
+1006,0,0,0,0,0,0,Casual Client
+1007,1,0,0,1,1,0,Super Client
+1008,0,0,0,0,0,0,Casual Client
+1009,0,0,0,0,0,0,Potential Good Client
+1010,0,0,0,0,0,0,Casual Client
+1011,0,0,0,0,0,0,Casual Client
+1012,0,0,0,0,0,0,Good Client
+1013,0,0,0,0,1,0,Super Client
+1014,0,0,0,0,0,0,Casual Client
+1015,0,0,0,0,0,0,Casual Client
+1016,0,0,0,0,0,0,Casual Client
+1017,0,0,0,0,0,0,Casual Client
+1018,0,0,0,0,0,0,Casual Client
+1019,0,0,0,0,0,1,Potential Good Client
+1020,0,0,0,0,0,0,Casual Client
+1021,0,0,0,0,0,0,Casual Client
+1022,0,0,0,0,0,0,Good Client
+1023,0,0,1,0,0,1,Casual Client
+1024,0,0,0,0,0,0,Casual Client
+1025,0,0,0,0,0,0,Casual Client
+1026,0,0,0,0,0,0,Good Client
+1027,0,0,0,0,1,1,Super Client
+1028,0,0,0,0,0,1,Super Client
+1029,0,0,0,0,0,0,Super Client
+1030,0,0,0,0,0,0,Casual Client
+1031,0,0,0,0,1,0,Super Client
+1032,0,0,0,0,0,0,Casual Client
+1033,0,0,0,0,0,0,Potential Good Client
+1034,0,0,0,0,0,0,Casual Client
+1035,0,0,1,0,0,1,Casual Client
+1036,0,0,0,0,0,0,Good Client
+1037,0,0,1,0,0,0,Good Client
+1038,0,0,0,0,0,0,Casual Client
+1039,1,0,0,0,0,0,Super Client
+1040,0,0,0,0,0,1,Casual Client
+1041,0,0,0,0,0,0,Casual Client
+1042,0,0,0,0,0,0,Casual Client
+1043,0,0,0,0,0,0,Super Client
+1044,0,0,0,0,0,1,Potential Good Client
+1045,0,0,0,1,0,0,Good Client
+1046,0,0,0,0,1,0,Super Client
+1047,0,0,1,0,0,0,Casual Client
+1048,0,0,0,0,0,0,Super Client
+1049,0,0,0,0,0,1,Casual Client
+1050,0,0,0,0,0,0,Casual Client
+1051,0,0,0,0,0,0,Super Client
+1052,0,0,0,0,0,0,Potential Good Client
+1053,0,0,0,0,0,0,Potential Good Client
+1054,0,0,0,0,0,0,Super Client
+1055,0,0,0,0,0,0,Super Client
+1056,0,0,0,1,0,0,Potential Good Client
+1057,0,0,1,0,0,0,Good Client
+1058,0,0,0,0,0,1,Good Client
+1059,0,0,1,0,0,0,Casual Client
+1060,0,0,0,0,0,0,Good Client
+1061,0,0,0,0,0,0,Casual Client
+1062,1,0,1,0,0,1,Super Client
+1063,0,0,0,0,0,0,Good Client
+1064,0,0,0,0,0,0,Casual Client
+1065,0,0,0,0,0,0,Super Client
+1066,0,0,0,0,0,0,Casual Client
+1067,0,0,0,0,0,0,Good Client
+1068,0,0,0,0,0,0,Good Client
+1069,0,0,0,0,0,0,Casual Client
+1070,0,0,0,0,0,0,Good Client
+1071,1,0,0,0,0,0,Super Client
+1072,0,0,1,0,1,0,Super Client
+1073,0,0,0,0,0,0,Casual Client
+1074,0,0,0,0,0,0,Potential Good Client
+1075,0,0,0,0,0,0,Casual Client
+1076,0,0,0,0,0,0,Super Client
+1077,0,0,0,0,0,1,Potential Good Client
+1078,0,0,0,0,0,1,Super Client
+1079,0,0,0,0,0,0,Casual Client
+1080,1,0,0,0,0,1,Super Client
+1081,0,0,0,0,0,0,Good Client
+1082,0,0,0,0,0,0,Casual Client
+1083,1,1,0,1,1,1,Good Client
+1084,0,0,0,0,0,0,Casual Client
+1085,0,0,0,0,0,1,Super Client
+1086,0,0,0,0,1,0,Super Client
+1087,0,0,0,0,0,0,Casual Client
+1088,0,0,0,0,0,0,Super Client
+1089,0,0,0,0,0,0,Casual Client
+1090,0,0,0,0,0,0,Casual Client
+1091,0,0,0,0,0,0,Good Client
+1092,0,0,0,0,0,0,Good Client
+1093,0,0,0,0,0,0,Super Client
+1094,0,0,0,0,0,0,Casual Client
+1095,0,0,0,0,0,0,Good Client
+1096,1,0,1,0,1,1,Super Client
+1097,0,0,0,0,0,0,Casual Client
+1098,0,0,0,0,0,0,Potential Good Client
+1099,0,0,0,0,0,0,Casual Client
+1100,0,0,0,0,0,0,Casual Client
+1101,1,0,0,0,0,0,Super Client
+1102,0,0,0,0,0,0,Casual Client
+1103,0,0,0,0,0,0,Casual Client
+1104,0,0,0,1,0,0,Good Client
+1105,0,0,0,0,0,0,Potential Good Client
+1106,0,0,0,0,0,0,Super Client
+1107,1,0,0,0,0,1,Super Client
+1108,0,0,0,0,0,0,Casual Client
+1109,0,0,0,1,0,0,Super Client
+1110,0,0,0,0,0,0,Casual Client
+1111,0,0,0,1,1,0,Good Client
+1112,0,0,1,0,0,1,Casual Client
+1113,0,0,1,0,0,1,Good Client
+1114,0,0,0,0,0,0,Casual Client
+1115,0,0,0,0,0,0,Potential Good Client
+1116,0,0,0,0,0,0,Good Client
+1117,0,0,0,0,0,0,Casual Client
+1118,0,0,0,0,0,0,Potential Good Client
+1119,0,0,0,0,0,0,Casual Client
+1120,0,0,0,0,0,0,Potential Good Client
+1121,0,0,0,0,0,1,Potential Good Client
+1122,0,0,0,0,0,0,Good Client
+1123,0,0,0,0,0,0,Casual Client
+1124,0,0,0,0,0,0,Casual Client
+1125,0,0,0,0,0,1,Super Client
+1126,0,0,0,1,0,0,Potential Good Client
+1127,0,0,0,0,0,0,Casual Client
+1128,0,0,0,0,0,0,Casual Client
+1129,1,0,0,0,0,0,Super Client
+1130,1,0,0,1,1,1,Super Client
+1131,0,0,0,0,0,0,Casual Client
+1132,0,0,0,0,0,0,Potential Good Client
+1133,0,0,0,0,0,1,Super Client
+1134,0,0,0,0,0,0,Casual Client
+1135,0,0,0,0,0,0,Potential Good Client
+1136,0,0,0,0,0,0,Good Client
+1137,0,0,0,0,0,0,Casual Client
+1138,0,0,0,0,0,0,Casual Client
+1139,0,0,0,0,0,0,Casual Client
+1140,0,0,0,0,0,0,Super Client
+1141,0,0,0,0,0,0,Casual Client
+1142,0,0,1,0,0,1,Casual Client
+1143,0,0,0,0,0,0,Potential Good Client
+1144,0,0,0,0,0,0,Potential Good Client
+1145,0,0,1,0,0,1,Casual Client
+1146,0,0,0,0,0,0,Good Client
+1147,0,0,0,0,0,0,Good Client
+1148,0,0,0,0,0,0,Casual Client
+1149,0,0,0,0,1,1,Super Client
+1150,0,0,0,0,0,0,Casual Client
+1151,0,0,0,0,0,0,Casual Client
+1152,0,0,0,0,0,1,Potential Good Client
+1153,0,0,0,0,0,0,Super Client
+1154,0,0,0,0,0,0,Super Client
+1155,0,0,0,0,0,0,Good Client
+1156,0,0,0,0,0,0,Casual Client
+1157,0,0,0,0,0,0,Potential Good Client
+1158,0,0,0,1,0,0,Potential Good Client
+1159,0,0,0,0,0,0,Super Client
+1160,0,0,0,0,0,0,Potential Good Client
+1161,0,0,0,0,0,0,Good Client
+1162,0,0,0,0,0,0,Casual Client
+1163,0,0,0,0,0,0,Casual Client
+1164,0,0,0,0,0,0,Super Client
+1165,0,0,0,0,0,0,Super Client
+1166,0,0,1,0,0,0,Casual Client
+1167,0,0,0,0,0,0,Casual Client
+1168,0,0,0,0,0,0,Super Client
+1169,0,0,0,1,0,0,Potential Good Client
+1170,0,0,0,0,0,0,Casual Client
+1171,0,0,0,0,0,0,Potential Good Client
+1172,0,0,0,0,0,0,Casual Client
+1173,0,0,0,0,0,0,Good Client
+1174,0,0,0,0,0,0,Casual Client
+1175,0,0,0,0,1,0,Super Client
+1176,0,0,0,0,0,0,Potential Good Client
+1177,0,0,0,0,0,0,Casual Client
+1178,0,0,0,1,0,1,Good Client
+1179,0,0,0,0,0,0,Casual Client
+1180,0,0,0,0,0,0,Casual Client
+1181,0,0,0,0,0,0,Casual Client
+1182,0,0,0,0,0,0,Casual Client
+1183,1,0,0,0,0,0,Good Client
+1184,0,0,0,0,0,0,Potential Good Client
+1185,0,0,0,0,0,0,Casual Client
+1186,0,0,0,0,0,1,Super Client
+1187,0,0,0,1,1,1,Good Client
+1188,0,0,0,0,0,0,Casual Client
+1189,0,0,0,0,0,0,Casual Client
+1190,0,0,0,0,0,0,Potential Good Client
+1191,0,0,0,0,0,0,Good Client
+1192,0,0,0,0,0,0,Casual Client
+1193,0,0,0,1,0,0,Good Client
+1194,0,0,0,0,0,0,Good Client
+1195,0,0,0,0,0,0,Super Client
+1196,0,0,0,0,0,0,Casual Client
+1197,0,0,0,0,0,0,Good Client
+1198,0,0,0,0,0,0,Casual Client
+1199,0,0,1,0,0,1,Casual Client
+1200,0,0,0,0,0,0,Super Client
+1201,0,0,1,0,0,0,Potential Good Client
+1202,0,0,0,0,1,0,Super Client
+1203,0,0,0,0,0,0,Casual Client
+1204,0,0,1,0,0,0,Casual Client
+1205,0,0,0,0,0,0,Casual Client
+1206,0,0,0,1,0,0,Potential Good Client
+1207,0,0,0,0,0,0,Good Client
+1208,0,0,1,0,0,0,Super Client
+1209,0,0,0,0,1,0,Super Client
+1210,0,0,0,0,0,0,Potential Good Client
+1211,0,0,0,0,0,1,Casual Client
+1212,0,0,0,0,0,0,Good Client
+1213,0,0,0,0,0,0,Potential Good Client
+1214,0,0,0,0,0,0,Super Client
+1215,0,0,0,0,0,0,Casual Client
+1216,0,0,0,0,0,0,Casual Client
+1217,0,0,0,0,0,0,Casual Client
+1218,1,0,0,0,0,0,Super Client
+1219,0,0,1,0,0,0,Casual Client
+1220,0,0,0,0,0,0,Potential Good Client
+1221,0,0,0,0,0,0,Good Client
+1222,0,0,0,1,0,0,Good Client
+1223,0,0,1,0,0,1,Casual Client
+1224,0,0,0,0,0,0,Potential Good Client
+1225,0,0,0,0,0,0,Potential Good Client
+1226,0,0,0,0,0,0,Potential Good Client
+1227,0,0,0,0,0,0,Casual Client
+1228,0,0,0,0,0,0,Casual Client
+1229,0,0,0,0,0,0,Casual Client
+1230,0,0,0,0,0,0,Casual Client
+1231,0,0,0,0,0,0,Good Client
+1232,0,0,0,0,0,0,Casual Client
+1233,0,1,0,1,1,0,Super Client
+1234,0,0,0,0,0,0,Casual Client
+1235,0,0,0,0,0,0,Casual Client
+1236,0,0,0,0,0,0,Casual Client
+1237,0,0,0,0,0,0,Casual Client
+1238,0,0,1,0,0,0,Super Client
+1239,0,0,0,0,0,0,Good Client
+1240,0,0,0,0,0,0,Potential Good Client
+1241,0,0,0,0,0,0,Potential Good Client
+1242,0,0,0,0,0,0,Casual Client
+1243,0,0,0,0,0,0,Casual Client
+1244,0,0,0,0,0,0,Casual Client
+1245,0,0,0,1,0,0,Good Client
+1246,1,0,0,0,1,1,Good Client
+1247,0,0,0,1,0,0,Good Client
+1248,0,0,1,0,0,1,Good Client
+1249,0,0,0,0,0,0,Good Client
+1250,0,0,0,0,0,0,Good Client
+1251,0,0,0,0,0,1,Potential Good Client
+1252,0,0,0,0,0,1,Good Client
+1253,0,0,0,0,0,0,Super Client
+1254,0,0,1,0,0,0,Casual Client
+1255,1,0,0,0,1,0,Super Client
+1256,0,0,1,0,0,0,Casual Client
+1257,0,0,0,0,1,1,Super Client
+1258,1,0,1,0,0,0,Super Client
+1259,0,0,0,0,0,0,Casual Client
+1260,0,0,0,0,0,1,Casual Client
+1261,1,0,1,0,1,1,Super Client
+1262,0,0,0,0,0,1,Potential Good Client
+1263,0,0,0,0,0,0,Casual Client
+1264,0,0,0,0,0,0,Potential Good Client
+1265,0,0,0,0,0,0,Super Client
+1266,0,0,0,1,0,0,Good Client
+1267,0,0,0,0,0,0,Good Client
+1268,0,0,1,0,0,1,Casual Client
+1269,0,0,0,0,0,0,Potential Good Client
+1270,0,0,0,0,0,0,Potential Good Client
+1271,0,0,0,1,0,0,Good Client
+1272,0,0,1,0,0,0,Casual Client
+1273,0,0,0,0,0,0,Casual Client
+1274,1,0,0,0,0,0,Super Client
+1275,0,0,0,0,0,0,Potential Good Client
+1276,0,0,0,0,1,1,Super Client
+1277,0,1,0,1,0,1,Super Client
+1278,0,0,0,0,0,0,Potential Good Client
+1279,0,0,0,0,0,0,Good Client
+1280,0,0,0,0,0,0,Good Client
+1281,0,0,0,0,0,0,Casual Client
+1282,0,0,0,1,0,1,Potential Good Client
+1283,0,0,0,0,0,0,Casual Client
+1284,1,0,1,0,1,1,Super Client
+1285,0,0,0,0,0,0,Good Client
+1286,0,0,0,0,0,0,Casual Client
+1287,0,0,0,0,0,0,Casual Client
+1288,0,0,0,0,0,0,Casual Client
+1289,0,0,0,0,0,0,Casual Client
+1290,0,0,0,0,0,0,Casual Client
+1291,0,0,0,0,0,0,Casual Client
+1292,0,0,0,0,0,0,Casual Client
+1293,0,0,0,1,0,0,Good Client
+1294,0,0,0,0,1,1,Super Client
+1295,0,0,0,0,0,0,Casual Client
+1296,0,0,0,0,0,0,Casual Client
+1297,1,0,0,1,1,1,Super Client
+1298,0,0,0,0,0,0,Casual Client
+1299,0,0,0,0,0,0,Potential Good Client
+1300,0,0,0,1,0,0,Super Client
+1301,0,0,0,0,0,0,Good Client
+1302,0,0,0,0,0,0,Potential Good Client
+1303,0,0,0,1,1,0,Super Client
+1304,1,1,1,0,1,1,Good Client
+1305,0,0,0,0,0,0,Good Client
+1306,0,0,0,0,0,0,Good Client
+1307,0,0,0,0,0,0,Super Client
+1308,0,0,0,0,0,0,Potential Good Client
+1309,0,0,0,0,0,0,Super Client
+1310,0,0,0,0,0,0,Casual Client
+1311,0,0,0,0,0,0,Casual Client
+1312,0,0,0,0,0,0,Good Client
+1313,0,0,0,0,0,0,Casual Client
+1314,0,0,0,0,0,0,Casual Client
+1315,0,0,0,0,0,0,Casual Client
+1316,0,0,0,0,0,0,Super Client
+1317,0,0,0,0,0,0,Potential Good Client
+1318,0,0,0,0,1,0,Super Client
+1319,0,0,1,0,0,1,Potential Good Client
+1320,0,0,0,0,0,0,Casual Client
+1321,0,0,0,0,0,0,Good Client
+1322,0,0,0,0,0,0,Casual Client
+1323,0,0,0,0,0,0,Casual Client
+1324,0,0,0,0,0,0,Casual Client
+1325,0,0,1,0,0,1,Super Client
+1326,0,0,0,0,0,0,Casual Client
+1327,0,0,0,0,0,1,Potential Good Client
+1328,1,0,0,1,0,0,Super Client
+1329,0,0,0,0,0,0,Super Client
+1330,1,0,0,1,1,1,Good Client
+1331,0,0,0,0,0,0,Casual Client
+1332,0,0,0,0,0,0,Super Client
+1333,0,0,0,0,0,0,Casual Client
+1334,0,0,0,0,0,0,Casual Client
+1335,0,0,0,0,0,1,Casual Client
+1336,0,0,0,1,0,0,Casual Client
+1337,0,0,0,0,0,0,Potential Good Client
+1338,0,0,0,1,0,1,Potential Good Client
+1339,0,0,0,0,0,0,Casual Client
+1340,0,0,0,0,0,0,Casual Client
+1341,0,0,0,0,0,0,Casual Client
+1342,0,0,0,0,0,0,Casual Client
+1343,0,0,0,0,0,0,Good Client
+1344,0,0,0,1,0,0,Good Client
+1345,0,0,0,0,0,1,Super Client
+1346,0,0,0,0,0,0,Super Client
+1347,0,0,0,0,0,1,Super Client
+1348,0,0,0,0,0,0,Casual Client
+1349,0,0,0,0,0,0,Casual Client
+1350,0,0,0,0,1,1,Super Client
+1351,0,0,0,0,0,0,Super Client
+1352,0,0,1,0,0,0,Casual Client
+1353,0,0,0,0,0,0,Good Client
+1354,0,0,0,0,0,0,Super Client
+1355,0,0,0,0,0,0,Casual Client
+1356,0,0,0,0,0,0,Potential Good Client
+1357,0,0,1,0,0,0,Casual Client
+1358,0,0,0,0,0,0,Potential Good Client
+1359,0,0,0,0,0,0,Good Client
+1360,0,0,0,1,0,0,Potential Good Client
+1361,0,0,0,0,0,1,Super Client
+1362,0,0,0,0,0,0,Casual Client
+1363,0,0,0,0,0,0,Casual Client
+1364,0,0,0,0,0,0,Potential Good Client
+1365,0,0,0,0,0,0,Casual Client
+1366,0,0,0,0,0,0,Casual Client
+1367,0,0,0,0,0,0,Casual Client
+1368,0,0,0,0,0,0,Casual Client
+1369,0,0,0,1,0,0,Potential Good Client
+1370,0,0,0,0,0,0,Good Client
+1371,0,0,0,0,0,0,Potential Good Client
+1372,0,0,0,0,0,0,Potential Good Client
+1373,0,0,1,0,0,1,Casual Client
+1374,0,0,0,1,0,0,Potential Good Client
+1375,0,0,0,0,0,0,Potential Good Client
+1376,0,0,0,0,0,0,Casual Client
+1377,0,0,0,0,0,0,Potential Good Client
+1378,0,0,0,0,0,0,Casual Client
+1379,0,0,0,0,0,0,Casual Client
+1380,0,0,0,0,0,0,Casual Client
+1381,0,0,1,0,1,0,Super Client
+1382,0,0,0,0,0,0,Casual Client
+1383,0,0,0,0,0,0,Casual Client
+1384,0,0,0,0,0,0,Casual Client
+1385,0,0,0,0,0,0,Super Client
+1386,0,0,0,0,0,0,Potential Good Client
+1387,0,0,0,0,0,0,Casual Client
+1388,0,0,0,0,0,0,Casual Client
+1389,0,0,0,0,0,0,Casual Client
+1390,0,0,0,0,0,0,Casual Client
+1391,0,0,0,0,0,0,Good Client
+1392,0,0,0,0,0,0,Casual Client
+1393,0,0,0,0,0,0,Casual Client
+1394,0,0,0,0,0,0,Good Client
+1395,0,0,0,0,0,0,Potential Good Client
+1396,0,0,0,0,0,0,Potential Good Client
+1397,0,0,0,0,0,0,Good Client
+1398,0,0,0,0,0,0,Casual Client
+1399,0,0,0,0,0,1,Potential Good Client
+1400,0,0,0,0,0,0,Potential Good Client
+1401,0,0,0,0,0,0,Potential Good Client
+1402,0,0,0,0,0,0,Potential Good Client
+1403,0,0,0,0,0,0,Good Client
+1404,0,0,0,0,0,0,Good Client
+1405,0,0,0,0,0,1,Potential Good Client
+1406,0,0,0,0,0,0,Good Client
+1407,1,0,0,1,1,1,Good Client
+1408,0,0,0,0,0,0,Casual Client
+1409,1,0,0,0,0,1,Super Client
+1410,0,0,0,0,0,0,Casual Client
+1411,0,0,0,0,0,0,Good Client
+1412,0,0,0,0,0,0,Casual Client
+1413,0,0,0,0,0,0,Casual Client
+1414,0,0,0,0,0,0,Casual Client
+1415,0,0,0,0,0,0,Casual Client
+1416,0,0,0,0,0,0,Casual Client
+1417,0,0,0,0,0,0,Super Client
+1418,0,0,0,1,0,0,Good Client
+1419,0,0,0,0,0,0,Casual Client
+1420,0,0,0,0,0,0,Casual Client
+1421,0,0,0,0,0,0,Casual Client
+1422,0,0,0,0,0,0,Casual Client
+1423,0,0,0,0,0,0,Casual Client
+1424,0,0,0,0,0,0,Casual Client
+1425,0,0,0,0,0,0,Good Client
+1426,0,0,0,0,0,0,Casual Client
+1427,0,0,0,0,0,0,Casual Client
+1428,1,0,0,0,1,0,Super Client
+1429,0,0,0,0,0,0,Casual Client
+1430,0,0,0,0,0,0,Potential Good Client
+1431,0,0,1,0,0,0,Casual Client
+1432,0,0,0,0,0,0,Potential Good Client
+1433,0,0,0,0,0,0,Casual Client
+1434,0,0,0,0,0,0,Casual Client
+1435,0,0,0,0,0,0,Casual Client
+1436,0,0,0,0,0,0,Casual Client
+1437,0,0,0,0,0,0,Casual Client
+1438,0,0,0,0,0,1,Casual Client
+1439,1,0,0,0,0,1,Super Client
+1440,1,0,0,1,0,0,Super Client
+1441,0,0,0,0,0,0,Casual Client
+1442,0,0,0,0,0,0,Super Client
+1443,0,0,1,0,0,0,Good Client
+1444,0,0,0,0,0,0,Super Client
+1445,0,0,0,0,0,0,Good Client
+1446,0,0,0,0,0,0,Casual Client
+1447,0,0,0,0,0,0,Super Client
+1448,0,0,0,0,0,1,Super Client
+1449,0,0,0,0,0,0,Casual Client
+1450,0,0,0,0,0,0,Good Client
+1451,0,0,0,0,0,0,Super Client
+1452,0,0,0,0,0,1,Casual Client
+1453,0,0,0,0,0,0,Casual Client
+1454,1,0,0,1,1,1,Super Client
+1455,0,0,0,0,0,1,Good Client
+1456,0,0,0,1,0,0,Potential Good Client
+1457,0,0,0,0,0,0,Good Client
+1458,0,1,1,0,0,0,Casual Client
+1459,0,0,0,0,0,0,Casual Client
+1460,0,0,0,0,0,0,Casual Client
+1461,0,0,0,0,0,0,Good Client
+1462,0,0,0,0,0,0,Potential Good Client
+1463,0,0,0,0,1,0,Super Client
+1464,0,0,0,0,0,0,Casual Client
+1465,0,0,0,0,0,0,Good Client
+1466,0,0,0,0,0,0,Casual Client
+1467,0,0,0,0,0,0,Casual Client
+1468,0,0,0,0,0,0,Casual Client
+1469,0,0,0,1,1,1,Good Client
+1470,0,0,0,0,0,0,Good Client
+1471,0,0,0,0,0,0,Casual Client
+1472,0,0,0,0,0,0,Super Client
+1473,0,0,0,0,0,0,Casual Client
+1474,0,0,0,0,0,0,Casual Client
+1475,0,0,1,0,0,0,Good Client
+1476,0,0,0,0,0,0,Good Client
+1477,0,0,0,0,0,0,Good Client
+1478,0,0,0,0,0,0,Casual Client
+1479,0,0,0,0,0,0,Casual Client
+1480,0,0,0,0,0,0,Super Client
+1481,0,0,0,0,0,0,Good Client
+1482,0,0,0,0,0,0,Super Client
+1483,1,0,0,0,0,0,Potential Good Client
+1484,0,0,0,0,1,0,Super Client
+1485,0,0,0,0,0,0,Potential Good Client
+1486,0,0,0,0,0,1,Potential Good Client
+1487,0,0,0,0,0,0,Potential Good Client
+1488,1,0,1,0,1,1,Super Client
+1489,0,0,0,0,0,0,Potential Good Client
+1490,0,0,0,0,0,0,Casual Client
+1491,0,0,0,0,0,0,Super Client
+1492,0,0,0,0,0,0,Casual Client
+1493,0,0,1,0,0,1,Potential Good Client
+1494,0,0,0,0,0,0,Good Client
+1495,0,0,0,0,0,0,Super Client
+1496,0,0,0,0,0,0,Potential Good Client
+1497,0,0,0,0,0,0,Casual Client
+1498,0,0,0,0,0,1,Potential Good Client
+1499,0,0,0,0,0,0,Potential Good Client
+1500,0,0,1,0,0,1,Good Client
+1501,0,0,0,0,1,0,Good Client
+1502,0,0,0,0,0,0,Potential Good Client
+1503,0,0,1,0,0,0,Good Client
+1504,0,0,0,0,0,0,Super Client
+1505,0,0,0,0,0,0,Good Client
+1506,0,0,0,0,0,0,Super Client
+1507,0,0,0,0,0,0,Potential Good Client
+1508,0,0,0,0,0,0,Super Client
+1509,0,0,0,0,0,0,Super Client
+1510,0,0,0,0,0,1,Casual Client
+1511,0,0,0,0,0,0,Casual Client
+1512,0,0,0,0,0,0,Good Client
+1513,0,0,0,0,0,0,Casual Client
+1514,0,0,0,0,0,0,Casual Client
+1515,0,0,0,0,0,1,Casual Client
+1516,0,0,0,0,0,1,Super Client
+1517,0,0,0,0,0,0,Super Client
+1518,0,0,0,0,0,0,Casual Client
+1519,0,0,0,0,0,0,Casual Client
+1520,0,0,0,0,0,0,Casual Client
+1521,0,0,0,0,0,0,Potential Good Client
+1522,0,0,0,0,0,0,Super Client
+1523,0,0,0,0,0,0,Casual Client
+1524,1,0,0,0,1,1,Super Client
+1525,0,0,0,0,0,0,Casual Client
+1526,0,0,1,0,0,0,Good Client
+1527,0,0,0,1,0,0,Potential Good Client
+1528,0,0,0,0,0,0,Good Client
+1529,0,0,0,0,0,1,Potential Good Client
+1530,0,0,0,0,0,0,Casual Client
+1531,0,0,0,0,0,0,Potential Good Client
+1532,0,0,0,0,0,0,Casual Client
+1533,0,0,0,0,0,1,Super Client
+1534,0,0,0,1,0,0,Good Client
+1535,0,0,0,0,0,0,Good Client
+1536,0,0,0,0,0,0,Casual Client
+1537,0,0,0,0,0,0,Good Client
+1538,0,0,0,0,0,0,Super Client
+1539,0,0,0,0,0,0,Casual Client
+1540,0,0,0,0,0,0,Good Client
+1541,0,0,0,0,0,0,Casual Client
+1542,0,0,0,0,0,0,Casual Client
+1543,0,0,0,0,0,1,Casual Client
+1544,0,0,0,0,0,0,Good Client
+1545,0,0,0,0,0,0,Casual Client
+1546,0,0,0,0,0,0,Casual Client
+1547,0,0,0,0,0,0,Super Client
+1548,0,0,0,0,0,0,Super Client
+1549,1,0,0,0,0,0,Super Client
+1550,0,0,0,0,0,0,Good Client
+1551,0,0,0,0,0,0,Casual Client
+1552,0,0,1,0,0,1,Potential Good Client
+1553,0,0,0,0,0,0,Casual Client
+1554,0,0,0,0,0,0,Potential Good Client
+1555,0,0,0,0,0,0,Good Client
+1556,0,0,0,0,0,0,Casual Client
+1557,0,0,0,0,0,0,Potential Good Client
+1558,0,0,0,0,0,0,Casual Client
+1559,0,0,0,0,0,0,Super Client
+1560,0,0,0,0,0,0,Casual Client
+1561,0,0,0,0,0,0,Potential Good Client
+1562,0,0,0,1,0,0,Good Client
+1563,0,0,0,0,0,0,Good Client
+1564,0,0,0,0,0,1,Potential Good Client
+1565,0,0,0,0,0,0,Potential Good Client
+1566,1,0,0,0,1,1,Super Client
+1567,0,0,0,0,0,0,Casual Client
+1568,0,0,0,0,1,1,Super Client
+1569,0,0,0,0,0,0,Casual Client
+1570,0,0,0,0,0,1,Potential Good Client
+1571,0,0,0,0,0,0,Potential Good Client
+1572,0,0,0,0,0,1,Casual Client
+1573,0,0,0,1,1,0,Super Client
+1574,0,0,0,0,0,0,Casual Client
+1575,0,0,0,0,0,0,Good Client
+1576,0,0,0,0,0,0,Casual Client
+1577,0,0,0,0,0,0,Super Client
+1578,0,0,0,0,0,0,Super Client
+1579,0,0,0,0,0,0,Casual Client
+1580,0,0,0,0,0,1,Super Client
+1581,0,0,1,0,0,1,Casual Client
+1582,0,0,0,0,0,1,Potential Good Client
+1583,0,0,0,0,0,0,Casual Client
+1584,0,0,0,0,0,0,Potential Good Client
+1585,1,0,0,0,0,0,Super Client
+1586,0,0,0,0,0,0,Potential Good Client
+1587,0,0,0,0,0,0,Super Client
+1588,0,0,1,0,0,0,Casual Client
+1589,0,0,0,0,0,0,Potential Good Client
+1590,0,0,0,0,0,0,Casual Client
+1591,0,0,0,0,0,1,Potential Good Client
+1592,0,0,0,0,0,0,Potential Good Client
+1593,0,0,1,0,0,0,Casual Client
+1594,0,0,0,0,0,0,Super Client
+1595,0,0,0,0,0,0,Casual Client
+1596,0,0,0,0,0,0,Potential Good Client
+1597,1,0,0,0,0,0,Super Client
+1598,0,0,0,1,0,0,Good Client
+1599,0,0,0,0,0,0,Casual Client
+1600,0,0,0,0,0,0,Casual Client
+1601,0,0,0,0,0,0,Casual Client
+1602,0,0,0,0,0,0,Good Client
+1603,0,0,1,0,0,0,Good Client
+1604,0,0,0,0,0,0,Potential Good Client
+1605,0,0,0,0,0,0,Good Client
+1606,0,0,0,0,0,0,Super Client
+1607,0,0,0,0,0,0,Casual Client
+1608,0,0,1,0,0,1,Super Client
+1609,0,0,0,0,0,0,Casual Client
+1610,0,0,0,0,0,1,Casual Client
+1611,0,0,0,0,0,0,Super Client
+1612,0,0,0,0,0,0,Casual Client
+1613,0,0,0,0,0,0,Casual Client
+1614,0,0,0,0,0,0,Casual Client
+1615,0,0,0,0,0,0,Good Client
+1616,0,0,0,1,0,0,Casual Client
+1617,0,0,0,0,0,0,Casual Client
+1618,0,0,0,0,0,0,Super Client
+1619,0,0,0,0,0,0,Potential Good Client
+1620,0,0,0,0,0,0,Potential Good Client
+1621,0,0,0,0,0,0,Potential Good Client
+1622,0,0,0,0,0,0,Good Client
+1623,0,0,0,0,0,0,Good Client
+1624,0,0,0,0,0,1,Casual Client
+1625,0,0,0,0,0,0,Casual Client
+1626,0,0,0,0,0,0,Good Client
+1627,0,0,0,0,0,0,Potential Good Client
+1628,0,0,0,0,0,0,Casual Client
+1629,0,0,0,0,0,0,Casual Client
+1630,0,0,0,0,0,0,Potential Good Client
+1631,0,0,0,0,0,0,Potential Good Client
+1632,0,0,0,0,0,0,Good Client
+1633,0,0,0,0,0,0,Super Client
+1634,0,0,0,0,0,0,Casual Client
+1635,0,0,0,0,0,0,Casual Client
+1636,0,0,0,0,0,0,Casual Client
+1637,0,1,1,0,1,1,Good Client
+1638,0,0,0,0,0,0,Potential Good Client
+1639,0,0,0,0,0,0,Casual Client
+1640,0,0,0,0,0,0,Super Client
+1641,0,0,0,0,0,0,Casual Client
+1642,0,0,0,0,0,0,Potential Good Client
+1643,0,0,0,1,0,0,Super Client
+1644,0,0,0,0,0,1,Super Client
+1645,0,0,0,0,0,0,Potential Good Client
+1646,0,0,0,0,0,0,Casual Client
+1647,0,0,0,0,0,1,Super Client
+1648,0,0,0,0,0,1,Potential Good Client
+1649,0,0,0,0,0,0,Super Client
+1650,0,0,0,0,0,0,Casual Client
+1651,0,0,0,0,0,0,Casual Client
+1652,0,0,0,0,0,0,Potential Good Client
+1653,0,0,0,0,0,0,Good Client
+1654,0,0,0,0,0,0,Good Client
+1655,1,0,0,0,1,1,Super Client
+1656,0,0,0,0,0,0,Potential Good Client
+1657,0,0,0,0,0,0,Potential Good Client
+1658,0,0,0,0,0,0,Good Client
+1659,0,0,0,0,0,0,Casual Client
+1660,0,0,0,0,0,0,Casual Client
+1661,0,0,0,0,0,0,Casual Client
+1662,0,0,0,0,0,0,Good Client
+1663,0,0,0,0,0,0,Casual Client
+1664,0,0,0,0,0,0,Good Client
+1665,0,0,1,0,0,1,Good Client
+1666,1,0,0,1,0,1,Casual Client
+1667,0,0,0,0,0,0,Super Client
+1668,0,0,0,0,1,1,Super Client
+1669,1,0,0,0,0,0,Super Client
+1670,0,0,0,0,0,0,Super Client
+1671,0,0,0,0,0,0,Casual Client
+1672,0,0,0,0,0,0,Casual Client
+1673,0,0,0,0,0,0,Casual Client
+1674,0,0,0,0,0,0,Potential Good Client
+1675,0,0,0,0,0,0,Casual Client
+1676,1,0,0,0,0,0,Super Client
+1677,0,0,0,0,0,0,Casual Client
+1678,0,0,0,0,0,0,Potential Good Client
+1679,0,0,0,0,0,0,Casual Client
+1680,0,0,0,0,0,0,Casual Client
+1681,0,0,0,0,0,0,Casual Client
+1682,0,0,0,0,0,1,Super Client
+1683,0,1,0,1,0,1,Good Client
+1684,0,0,0,0,0,0,Good Client
+1685,0,0,0,0,0,0,Super Client
+1686,0,0,0,0,0,0,Good Client
+1687,0,0,0,0,0,0,Super Client
+1688,0,0,0,0,0,0,Casual Client
+1689,0,0,0,0,0,0,Casual Client
+1690,0,0,0,0,0,0,Casual Client
+1691,0,0,0,0,0,0,Good Client
+1692,0,0,0,0,0,0,Casual Client
+1693,0,0,0,0,1,0,Good Client
+1694,0,0,0,0,0,0,Casual Client
+1695,0,0,0,0,0,0,Super Client
+1696,0,0,0,0,0,0,Good Client
+1697,0,0,0,0,0,0,Potential Good Client
+1698,0,0,0,0,0,0,Casual Client
+1699,0,0,0,0,0,0,Potential Good Client
+1700,0,0,0,0,0,1,Casual Client
+1701,0,0,0,0,0,0,Casual Client
+1702,0,0,0,0,1,0,Good Client
+1703,0,0,0,0,0,0,Casual Client
+1704,0,0,0,0,0,0,Good Client
+1705,0,0,0,0,0,0,Casual Client
+1706,1,1,1,0,1,1,Super Client
+1707,1,0,1,0,1,1,Good Client
+1708,0,0,0,0,0,0,Casual Client
+1709,0,0,0,0,1,0,Super Client
+1710,0,0,0,0,0,0,Casual Client
+1711,0,0,0,0,0,0,Potential Good Client
+1712,0,0,0,0,0,0,Good Client
+1713,0,0,0,0,0,0,Casual Client
+1714,0,0,0,0,0,0,Potential Good Client
+1715,0,0,1,0,0,1,Good Client
+1716,0,0,0,0,0,0,Casual Client
+1717,1,0,0,1,1,1,Super Client
+1718,1,0,0,1,1,1,Super Client
+1719,0,0,0,0,1,0,Super Client
+1720,0,0,0,0,0,1,Potential Good Client
+1721,0,0,0,0,0,1,Casual Client
+1722,0,0,0,0,0,1,Potential Good Client
+1723,0,0,0,0,0,0,Casual Client
+1724,0,0,0,0,0,0,Good Client
+1725,0,0,0,0,0,0,Super Client
+1726,0,0,0,0,0,0,Casual Client
+1727,0,0,0,0,0,0,Casual Client
+1728,0,0,1,0,0,0,Casual Client
+1729,0,0,0,0,1,0,Super Client
+1730,0,0,0,0,0,0,Good Client
+1731,0,0,0,0,0,0,Good Client
+1732,0,0,0,0,0,0,Good Client
+1733,0,0,0,0,1,0,Super Client
+1734,1,0,0,0,0,0,Potential Good Client
+1735,0,0,0,0,0,0,Casual Client
+1736,0,0,0,1,0,0,Casual Client
+1737,0,0,0,0,0,0,Potential Good Client
+1738,0,0,0,0,0,1,Casual Client
+1739,0,0,0,0,0,1,Super Client
+1740,0,0,0,0,0,0,Good Client
+1741,0,0,0,0,0,0,Super Client
+1742,0,0,0,0,0,0,Casual Client
+1743,0,0,0,0,0,0,Good Client
+1744,0,0,0,0,0,0,Good Client
+1745,1,0,0,1,1,0,Super Client
+1746,0,0,0,1,0,1,Good Client
+1747,0,0,0,0,0,0,Potential Good Client
+1748,0,0,0,0,0,0,Casual Client
+1749,0,0,0,1,0,1,Potential Good Client
+1750,0,0,0,0,0,0,Casual Client
+1751,0,0,0,0,0,0,Casual Client
+1752,0,0,0,0,0,0,Casual Client
+1753,0,0,0,0,0,1,Casual Client
+1754,0,0,0,0,0,0,Casual Client
+1755,0,0,0,0,0,0,Good Client
+1756,0,0,0,0,0,0,Good Client
+1757,0,0,0,0,0,0,Casual Client
+1758,0,0,0,0,0,0,Good Client
+1759,0,0,0,0,0,0,Good Client
+1760,0,0,0,0,0,0,Casual Client
+1761,0,0,0,0,0,0,Good Client
+1762,0,0,0,0,0,0,Casual Client
+1763,0,0,0,0,0,0,Super Client
+1764,0,0,0,0,0,0,Casual Client
+1765,0,0,1,0,0,0,Casual Client
+1766,0,0,0,0,0,1,Potential Good Client
+1767,0,0,0,0,0,0,Potential Good Client
+1768,0,0,0,0,0,0,Super Client
+1769,0,0,0,0,0,0,Super Client
+1770,0,0,0,0,0,0,Casual Client
+1771,0,0,0,0,0,1,Potential Good Client
+1772,0,0,0,0,0,0,Casual Client
+1773,0,0,0,0,0,0,Potential Good Client
+1774,0,0,0,0,0,0,Casual Client
+1775,0,0,0,0,0,0,Super Client
+1776,0,0,0,0,0,0,Casual Client
+1777,0,0,0,0,0,0,Casual Client
+1778,0,0,0,0,0,0,Super Client
+1779,0,0,0,0,0,0,Good Client
+1780,0,0,0,0,0,1,Potential Good Client
+1781,0,0,0,0,0,0,Potential Good Client
+1782,0,0,0,0,0,0,Potential Good Client
+1783,0,0,0,0,0,0,Casual Client
+1784,0,0,0,0,0,0,Good Client
+1785,0,0,0,0,0,0,Super Client
+1786,0,0,0,0,0,0,Casual Client
+1787,0,0,0,0,0,0,Casual Client
+1788,0,0,0,0,1,0,Super Client
+1789,0,0,0,0,0,0,Casual Client
+1790,0,0,1,0,0,0,Potential Good Client
+1791,0,0,0,0,0,0,Casual Client
+1792,0,0,0,0,0,0,Good Client
+1793,0,0,0,0,0,0,Casual Client
+1794,1,0,0,0,0,0,Good Client
+1795,0,0,0,0,0,0,Super Client
+1796,0,0,0,0,0,0,Super Client
+1797,0,0,0,0,1,0,Super Client
+1798,0,0,0,0,0,0,Potential Good Client
+1799,0,0,0,0,0,1,Potential Good Client
+1800,0,0,1,0,0,0,Casual Client
+1801,0,0,0,0,0,0,Good Client
+1802,0,0,0,0,0,0,Good Client
+1803,0,0,0,0,0,0,Casual Client
+1804,0,0,0,0,0,1,Super Client
+1805,0,0,1,0,0,0,Super Client
+1806,0,0,0,0,0,0,Casual Client
+1807,0,0,0,0,0,0,Good Client
+1808,1,0,0,0,0,0,Good Client
+1809,1,0,0,0,0,0,Super Client
+1810,0,0,0,0,0,0,Super Client
+1811,0,0,0,0,0,0,Casual Client
+1812,0,0,0,1,0,0,Good Client
+1813,0,0,0,0,0,1,Super Client
+1814,0,0,0,0,0,0,Potential Good Client
+1815,0,0,0,0,0,0,Casual Client
+1816,1,0,0,0,0,0,Good Client
+1817,0,0,0,0,0,0,Casual Client
+1818,0,0,0,0,0,0,Casual Client
+1819,0,0,0,0,0,0,Good Client
+1820,0,0,0,0,0,0,Super Client
+1821,0,0,0,0,0,0,Casual Client
+1822,0,0,0,0,0,0,Potential Good Client
+1823,0,0,0,0,0,1,Super Client
+1824,0,0,0,0,0,0,Super Client
+1825,0,0,0,0,0,1,Potential Good Client
+1826,0,0,0,0,0,0,Casual Client
+1827,0,0,0,0,0,0,Casual Client
+1828,0,0,0,0,0,0,Good Client
+1829,0,0,0,0,0,0,Casual Client
+1830,0,0,0,0,0,1,Casual Client
+1831,0,0,0,0,0,0,Casual Client
+1832,0,0,0,0,0,0,Super Client
+1833,0,0,0,1,0,0,Potential Good Client
+1834,0,0,0,0,0,0,Good Client
+1835,0,0,0,0,0,1,Good Client
+1836,0,0,0,0,0,0,Casual Client
+1837,1,0,0,1,1,1,Super Client
+1838,0,0,0,0,0,0,Casual Client
+1839,0,0,0,0,0,0,Super Client
+1840,0,0,0,0,0,0,Potential Good Client
+1841,1,0,1,0,1,1,Good Client
+1842,0,0,0,0,0,0,Potential Good Client
+1843,0,0,0,0,0,0,Casual Client
+1844,0,0,0,0,0,0,Potential Good Client
+1845,0,0,0,0,0,0,Casual Client
+1846,0,0,1,0,1,1,Super Client
+1847,0,0,0,0,0,0,Casual Client
+1848,0,0,0,0,0,0,Super Client
+1849,0,0,0,0,0,1,Super Client
+1850,0,0,0,0,0,1,Super Client
+1851,1,0,0,1,0,0,Good Client
+1852,0,0,0,0,0,0,Casual Client
+1853,0,0,0,0,0,0,Casual Client
+1854,0,0,0,0,0,0,Super Client
+1855,0,0,0,0,0,0,Good Client
+1856,0,0,0,0,0,0,Good Client
+1857,0,0,0,0,0,0,Casual Client
+1858,0,0,0,0,0,0,Good Client
+1859,0,0,0,0,0,0,Super Client
+1860,0,0,0,0,1,1,Super Client
+1861,0,0,0,1,0,1,Potential Good Client
+1862,0,0,0,0,0,0,Casual Client
+1863,0,0,0,0,0,0,Casual Client
+1864,0,0,0,0,0,0,Potential Good Client
+1865,1,0,0,1,1,1,Super Client
+1866,0,0,0,0,0,0,Casual Client
+1867,0,0,0,0,0,0,Super Client
+1868,0,0,0,0,0,0,Casual Client
+1869,0,0,0,0,0,0,Potential Good Client
+1870,0,0,0,0,0,0,Casual Client
+1871,0,0,0,0,0,0,Casual Client
+1872,0,0,0,0,0,1,Good Client
+1873,1,0,0,0,0,0,Super Client
+1874,0,0,0,0,0,0,Good Client
+1875,0,0,0,0,0,0,Good Client
+1876,0,0,0,0,0,1,Super Client
+1877,0,0,1,0,0,1,Casual Client
+1878,0,0,0,0,0,0,Casual Client
+1879,0,0,0,1,0,0,Good Client
+1880,0,0,0,0,0,0,Casual Client
+1881,0,0,0,0,0,0,Good Client
+1882,0,0,0,0,0,0,Casual Client
+1883,0,0,1,0,0,1,Super Client
+1884,0,0,0,0,0,0,Good Client
+1885,0,0,1,0,0,0,Casual Client
+1886,0,0,0,0,0,0,Super Client
+1887,1,0,1,0,1,0,Super Client
+1888,0,0,0,0,0,0,Casual Client
+1889,1,0,0,1,0,0,Potential Good Client
+1890,0,0,0,0,0,0,Super Client
+1891,0,0,0,0,0,0,Casual Client
+1892,0,0,1,0,0,0,Casual Client
+1893,0,0,0,0,1,0,Super Client
+1894,0,0,0,0,0,0,Good Client
+1895,0,0,0,0,0,0,Good Client
+1896,0,0,0,0,0,0,Casual Client
+1897,0,0,0,0,0,0,Casual Client
+1898,0,0,0,0,0,0,Good Client
+1899,0,0,0,0,0,0,Casual Client
+1900,0,0,0,1,0,0,Casual Client
+1901,0,0,0,0,0,0,Super Client
+1902,0,0,0,0,0,0,Good Client
+1903,0,0,0,0,0,0,Casual Client
+1904,0,0,0,0,0,0,Casual Client
+1905,0,0,1,0,0,0,Casual Client
+1906,0,0,0,0,0,0,Super Client
+1907,0,0,0,1,0,0,Super Client
+1908,0,0,0,0,0,0,Super Client
+1909,1,0,0,1,0,1,Good Client
+1910,0,0,0,0,0,0,Good Client
+1911,0,1,0,1,0,1,Potential Good Client
+1912,0,0,0,0,0,0,Casual Client
+1913,0,0,0,0,0,0,Casual Client
+1914,0,0,0,0,0,0,Casual Client
+1915,0,0,0,0,0,0,Casual Client
+1916,0,0,0,0,0,0,Casual Client
+1917,0,0,0,0,0,0,Super Client
+1918,1,1,0,1,1,1,Super Client
+1919,0,0,0,0,1,0,Super Client
+1920,0,0,0,0,0,0,Good Client
+1921,0,0,0,0,0,0,Casual Client
+1922,0,1,0,1,0,0,Good Client
+1923,0,0,0,0,0,0,Super Client
+1924,0,0,0,0,0,1,Super Client
+1925,0,0,0,0,0,0,Good Client
+1926,0,0,0,0,0,0,Casual Client
+1927,0,0,0,0,0,0,Good Client
+1928,0,0,0,0,0,0,Casual Client
+1929,0,0,0,0,0,0,Casual Client
+1930,0,0,0,0,0,0,Super Client
+1931,0,0,0,0,0,0,Casual Client
+1932,0,0,0,0,0,1,Potential Good Client
+1933,0,0,0,0,0,1,Good Client
+1934,0,0,0,0,0,0,Casual Client
+1935,0,0,0,0,0,0,Casual Client
+1936,1,0,1,0,1,1,Super Client
+1937,0,0,0,0,0,0,Casual Client
+1938,0,0,0,0,0,0,Casual Client
+1939,0,0,0,0,0,0,Super Client
+1940,0,0,0,0,0,0,Casual Client
+1941,0,0,0,0,0,0,Super Client
+1942,0,0,0,0,0,1,Super Client
+1943,0,0,0,0,0,0,Super Client
+1944,0,0,0,0,0,0,Casual Client
+1945,0,0,0,0,0,0,Casual Client
+1946,0,0,0,0,0,0,Casual Client
+1947,0,0,0,0,0,0,Good Client
+1948,0,0,0,0,0,0,Super Client
+1949,0,0,0,0,0,1,Super Client
+1950,0,0,0,0,0,0,Good Client
+1951,0,0,0,0,0,0,Super Client
+1952,0,0,0,0,0,0,Casual Client
+1953,0,0,1,0,0,0,Potential Good Client
+1954,0,0,0,0,1,1,Super Client
+1955,0,0,0,0,0,0,Potential Good Client
+1956,0,0,0,0,0,0,Good Client
+1957,0,1,0,1,1,1,Good Client
+1958,0,0,0,0,0,0,Casual Client
+1959,0,0,0,0,0,1,Casual Client
+1960,0,0,0,0,0,0,Casual Client
+1961,0,0,0,0,0,0,Super Client
+1962,0,0,0,0,0,0,Good Client
+1963,0,0,0,0,0,0,Super Client
+1964,1,0,0,0,0,1,Super Client
+1965,0,0,0,1,1,0,Super Client
+1966,0,0,1,0,0,0,Good Client
+1967,0,0,1,0,0,0,Casual Client
+1968,0,0,0,0,0,1,Potential Good Client
+1969,0,0,0,0,0,0,Potential Good Client
+1970,0,0,0,0,0,0,Casual Client
+1971,0,0,0,0,0,0,Good Client
+1972,0,0,0,0,0,0,Good Client
+1973,0,0,0,0,0,0,Potential Good Client
+1974,0,0,0,0,0,1,Casual Client
+1975,0,0,1,0,0,1,Casual Client
+1976,0,0,0,0,0,0,Casual Client
+1977,0,0,0,0,0,1,Potential Good Client
+1978,1,0,0,0,1,0,Super Client
+1979,0,0,0,0,0,0,Casual Client
+1980,0,0,0,0,0,0,Potential Good Client
+1981,0,0,0,0,0,0,Casual Client
+1982,0,0,0,0,0,0,Potential Good Client
+1983,0,0,0,0,0,0,Casual Client
+1984,0,0,0,0,0,0,Casual Client
+1985,0,0,0,0,0,0,Good Client
+1986,1,0,0,0,0,1,Super Client
+1987,0,0,0,0,0,0,Casual Client
+1988,0,0,0,0,1,1,Super Client
+1989,0,0,0,1,1,0,Super Client
+1990,0,0,0,0,0,0,Casual Client
+1991,1,0,1,0,1,1,Super Client
+1992,1,0,0,0,0,1,Super Client
+1993,0,0,0,0,0,0,Good Client
+1994,0,0,1,0,0,0,Potential Good Client
+1995,0,0,0,0,0,0,Casual Client
+1996,0,0,0,0,0,0,Casual Client
+1997,0,0,0,0,0,0,Casual Client
+1998,0,0,0,0,0,1,Casual Client
+1999,0,0,0,0,0,0,Casual Client
+2000,0,0,0,0,0,0,Casual Client
+2001,0,0,0,0,0,0,Casual Client
+2002,0,0,0,0,0,0,Super Client
+2003,0,0,1,0,0,0,Potential Good Client
+2004,0,0,0,0,0,0,Potential Good Client
+2005,0,0,0,0,0,0,Good Client
+2006,0,0,0,0,0,0,Super Client
+2007,0,0,0,0,0,0,Casual Client
+2008,1,0,0,1,1,1,Super Client
+2009,0,0,0,0,0,0,Good Client
+2010,0,0,0,0,0,1,Super Client
+2011,0,0,0,0,0,0,Casual Client
+2012,0,0,0,0,0,1,Casual Client
+2013,0,0,0,0,0,0,Casual Client
+2014,0,0,0,0,0,0,Casual Client
+2015,0,0,0,0,0,0,Casual Client
+2016,0,0,0,0,0,0,Casual Client
+2017,0,0,0,0,0,0,Casual Client
+2018,0,0,0,0,0,0,Potential Good Client
+2019,0,0,0,0,0,0,Good Client
+2020,0,0,0,0,0,0,Good Client
+2021,0,0,0,0,0,0,Casual Client
+2022,0,0,0,0,0,0,Casual Client
+2023,0,0,0,0,0,0,Casual Client
+2024,0,0,1,0,0,1,Good Client
+2025,0,0,0,0,0,0,Casual Client
+2026,0,0,1,0,0,1,Good Client
+2027,0,0,0,0,0,0,Good Client
+2028,0,0,0,0,0,0,Casual Client
+2029,0,0,0,0,0,0,Good Client
+2030,0,0,1,0,0,0,Casual Client
+2031,0,0,0,0,0,0,Good Client
+2032,0,0,0,0,0,0,Good Client
+2033,0,0,0,0,0,0,Good Client
+2034,0,0,0,0,0,0,Casual Client
+2035,0,0,1,0,0,0,Super Client
+2036,0,0,0,0,0,0,Super Client
+2037,0,0,0,0,0,0,Good Client
+2038,0,0,0,0,0,0,Casual Client
+2039,0,0,0,0,0,0,Casual Client
+2040,0,0,0,0,0,0,Potential Good Client
+2041,0,0,0,0,0,0,Casual Client
+2042,0,0,0,0,0,0,Casual Client
+2043,1,0,0,0,1,0,Super Client
+2044,0,0,0,0,0,1,Super Client
+2045,0,0,0,0,0,0,Super Client
+2046,0,0,0,0,0,0,Casual Client
+2047,1,0,0,0,0,0,Potential Good Client
+2048,0,0,0,0,0,0,Good Client
+2049,0,0,0,0,0,0,Casual Client
+2050,0,0,0,0,0,0,Casual Client
+2051,0,0,0,0,0,0,Casual Client
+2052,0,0,0,0,0,0,Super Client
+2053,0,0,0,0,0,0,Good Client
+2054,0,0,0,0,0,0,Good Client
+2055,0,0,0,0,0,0,Good Client
+2056,0,0,0,0,0,0,Casual Client
+2057,0,0,0,0,0,0,Casual Client
+2058,0,0,0,0,0,0,Super Client
+2059,0,0,0,0,0,0,Casual Client
+2060,0,0,0,0,0,0,Good Client
+2061,0,0,0,0,0,0,Good Client
+2062,0,0,0,0,0,0,Casual Client
+2063,0,0,0,0,0,0,Good Client
+2064,0,0,0,0,0,0,Casual Client
+2065,0,0,0,0,0,0,Casual Client
+2066,0,0,0,0,0,0,Good Client
+2067,0,0,0,0,0,0,Super Client
+2068,0,0,0,0,0,0,Casual Client
+2069,0,0,0,0,0,1,Good Client
+2070,0,0,0,0,0,0,Super Client
+2071,0,0,0,0,0,1,Good Client
+2072,0,0,0,0,0,0,Casual Client
+2073,0,0,0,0,0,0,Casual Client
+2074,0,0,0,0,0,0,Casual Client
+2075,0,0,0,0,0,0,Potential Good Client
+2076,0,0,0,0,0,0,Casual Client
+2077,0,0,0,0,0,0,Potential Good Client
+2078,0,0,0,0,0,0,Potential Good Client
+2079,0,0,0,0,0,0,Super Client
+2080,0,0,0,0,1,1,Super Client
+2081,0,0,0,0,0,0,Good Client
+2082,0,0,0,0,0,0,Super Client
+2083,0,0,0,1,0,0,Super Client
+2084,0,0,0,0,0,0,Casual Client
+2085,0,0,0,0,0,0,Casual Client
+2086,0,0,0,0,0,1,Potential Good Client
+2087,0,0,0,0,0,0,Casual Client
+2088,0,0,0,0,0,0,Casual Client
+2089,1,0,0,0,1,1,Super Client
+2090,0,0,1,0,0,1,Good Client
+2091,0,0,0,0,0,0,Casual Client
+2092,0,0,0,0,0,0,Super Client
+2093,0,0,0,0,0,0,Potential Good Client
+2094,0,0,1,0,1,1,Good Client
+2095,0,1,0,1,0,0,Good Client
+2096,0,0,0,0,0,0,Casual Client
+2097,0,0,0,0,0,0,Good Client
+2098,0,0,0,0,0,1,Casual Client
+2099,0,0,0,1,1,0,Good Client
+2100,0,0,0,0,0,0,Casual Client
+2101,0,0,0,0,0,0,Casual Client
+2102,0,0,0,0,0,0,Casual Client
+2103,0,0,1,0,0,1,Good Client
+2104,0,0,0,0,0,0,Potential Good Client
+2105,0,0,0,0,1,1,Super Client
+2106,0,0,0,0,0,0,Potential Good Client
+2107,0,0,1,0,0,0,Good Client
+2108,0,0,0,0,0,0,Casual Client
+2109,0,0,0,0,0,0,Casual Client
+2110,0,0,0,0,0,0,Potential Good Client
+2111,0,0,0,0,0,0,Good Client
+2112,0,0,0,0,0,0,Casual Client
+2113,0,0,0,0,0,0,Good Client
+2114,0,0,0,0,0,0,Super Client
+2115,0,0,0,0,0,0,Casual Client
+2116,0,0,0,0,0,0,Casual Client
+2117,0,0,0,0,0,0,Casual Client
+2118,0,0,0,0,0,0,Casual Client
+2119,0,0,0,0,0,0,Good Client
+2120,0,0,0,1,0,0,Casual Client
+2121,0,1,0,1,1,0,Super Client
+2122,0,0,0,0,0,0,Good Client
+2123,0,0,0,0,1,1,Super Client
+2124,0,0,0,0,0,1,Good Client
+2125,0,0,0,0,0,0,Casual Client
+2126,0,0,0,0,0,0,Casual Client
+2127,1,0,0,0,0,1,Super Client
+2128,0,0,0,0,0,0,Casual Client
+2129,0,0,0,0,0,0,Casual Client
+2130,0,0,0,0,0,0,Super Client
+2131,0,0,0,0,0,0,Casual Client
+2132,0,0,1,0,0,0,Potential Good Client
+2133,0,0,0,0,0,0,Casual Client
+2134,0,0,0,0,0,0,Casual Client
+2135,0,0,0,0,0,1,Potential Good Client
+2136,0,0,0,0,0,0,Casual Client
+2137,0,0,0,0,0,0,Casual Client
+2138,0,0,0,0,0,0,Potential Good Client
+2139,0,0,0,0,0,0,Casual Client
+2140,0,0,0,1,1,0,Good Client
+2141,0,0,0,0,1,1,Super Client
+2142,0,0,0,0,0,0,Casual Client
+2143,0,0,0,0,0,0,Potential Good Client
+2144,0,0,0,0,0,0,Potential Good Client
+2145,0,0,0,0,0,0,Casual Client
+2146,0,0,0,0,0,0,Casual Client
+2147,1,0,0,0,0,0,Super Client
+2148,0,0,0,0,0,0,Casual Client
+2149,0,0,1,0,0,0,Potential Good Client
+2150,0,0,0,0,0,0,Casual Client
+2151,0,0,0,0,0,0,Casual Client
+2152,0,0,0,0,0,0,Potential Good Client
+2153,0,0,0,0,0,0,Casual Client
+2154,0,0,0,1,0,0,Good Client
+2155,0,0,0,0,0,0,Casual Client
+2156,0,0,0,0,0,1,Good Client
+2157,0,0,0,0,0,0,Casual Client
+2158,0,0,0,0,0,0,Potential Good Client
+2159,1,0,0,0,0,0,Super Client
+2160,0,0,0,0,0,0,Casual Client
+2161,0,0,0,0,0,0,Casual Client
+2162,0,0,0,0,0,0,Super Client
+2163,1,1,1,0,1,1,Super Client
+2164,1,0,1,0,1,0,Super Client
+2165,0,0,0,0,0,0,Casual Client
+2166,0,0,0,1,0,0,Good Client
+2167,0,1,0,1,1,1,Good Client
+2168,0,0,0,0,0,0,Super Client
+2169,0,0,0,0,0,0,Good Client
+2170,1,0,0,1,0,0,Good Client
+2171,1,0,0,0,1,1,Super Client
+2172,0,0,0,0,0,0,Super Client
+2173,0,0,0,0,0,0,Potential Good Client
+2174,0,0,1,0,0,0,Good Client
+2175,0,0,0,0,0,0,Casual Client
+2176,0,0,0,0,0,0,Casual Client
+2177,0,0,0,1,0,0,Potential Good Client
+2178,0,0,0,0,0,0,Casual Client
+2179,0,0,0,0,0,0,Casual Client
+2180,0,0,0,0,0,0,Casual Client
+2181,0,0,0,1,0,0,Good Client
+2182,0,0,0,1,0,0,Good Client
+2183,0,0,0,0,1,0,Super Client
+2184,0,0,0,0,0,0,Super Client
+2185,0,0,0,0,0,0,Casual Client
+2186,0,0,0,0,0,1,Super Client
+2187,0,0,0,0,0,0,Casual Client
+2188,0,0,0,0,0,0,Casual Client
+2189,1,0,1,0,0,1,Super Client
+2190,0,0,1,0,0,1,Good Client
+2191,0,0,0,0,0,0,Potential Good Client
+2192,0,0,0,0,0,0,Casual Client
+2193,0,0,1,0,0,0,Good Client
+2194,0,0,1,0,0,1,Potential Good Client
+2195,0,0,0,0,0,0,Casual Client
+2196,0,0,0,0,0,0,Casual Client
+2197,0,0,0,0,0,0,Good Client
+2198,0,0,0,0,0,1,Potential Good Client
+2199,0,0,0,0,0,0,Super Client
+2200,0,0,0,0,0,0,Casual Client
+2201,0,0,0,0,0,0,Potential Good Client
+2202,0,0,0,0,0,0,Good Client
+2203,0,0,0,1,0,0,Casual Client
+2204,0,0,0,0,0,0,Casual Client
+2205,0,0,0,0,0,0,Casual Client
+2206,0,0,0,0,0,0,Potential Good Client
+2207,0,0,0,0,0,0,Super Client
+2208,0,0,0,0,0,0,Casual Client
+2209,0,0,0,0,0,0,Super Client
+2210,0,0,0,0,0,0,Casual Client
+2211,0,0,0,0,0,0,Casual Client
+2212,0,0,0,0,0,0,Casual Client
+2213,0,0,0,0,0,0,Super Client
+2214,0,0,0,0,0,0,Casual Client
+2215,0,0,0,0,0,0,Potential Good Client
+2216,0,0,0,0,0,0,Good Client
+2217,0,0,0,1,1,1,Super Client
+2218,0,0,0,0,0,0,Casual Client
+2219,0,0,0,0,0,0,Casual Client
+2220,0,0,1,0,0,0,Good Client
+2221,0,0,0,0,0,0,Potential Good Client
+2222,0,0,0,0,0,0,Potential Good Client
+2223,0,0,0,0,0,0,Potential Good Client
+2224,0,0,0,1,0,0,Super Client
+2225,0,0,0,0,0,0,Casual Client
+2226,0,0,1,0,0,0,Casual Client
+2227,0,0,0,0,0,0,Good Client
+2228,0,0,0,0,0,0,Casual Client
+2229,0,0,0,0,0,0,Good Client
+2230,0,0,0,0,0,0,Casual Client
+2231,0,0,0,0,0,0,Good Client
+2232,1,0,0,0,0,0,Potential Good Client
+2233,0,0,0,1,0,0,Super Client
+2234,0,0,0,0,0,0,Good Client
+2235,0,0,0,0,0,1,Potential Good Client
