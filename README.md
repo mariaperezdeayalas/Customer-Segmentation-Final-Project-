@@ -1,7 +1,7 @@
 # Customer Segmentation Analysis
 ## Ironhack Data Analytics Bootcamp Final Project 
 
-### ![supermarket](Data/supermarket.png)
+##### ![supermarket](Data/supermarket.png)
 
 ### **Project Overview**
 #
@@ -21,7 +21,9 @@ The data has been taken from a dataset in Kaggle called [Customer Personality An
 
 4. Analysis of the clusters: identifying how the algorithm has divided my clusters looking at the characteristics of each with the help of data visualization. 
 
-5. Loading the data into Tableau for visualization purposes. 
+5. Analysis of marketing campaigns: looking at the acceptance ratio of the 6 latest marketing campaigns by cluster, identifying opportunities by cluster. 
+
+6. Loading the data into Tableau for visualization purposes. 
 
 ### **Tools & Techniques**
 #
@@ -33,6 +35,15 @@ The data has been taken from a dataset in Kaggle called [Customer Personality An
 ### **Conclusion & Learnings** 
 #
 The algorithm has divided my customers into 4 groups, based on their level of income and their loyalty level mainly.
+
+XXXXXX
+
+### **Structure of project files**
+#
+This project contains:
+- Notebooks folder: with 4 Jupyter Notebooks dedicated to 1) cleaning the dataset; 2) data pre-processing; 3) Clustering with K-Means; 4) Marketing Campaigns Analysis
+- Data folder: with all the data used for the project
+- Tableau Story: with the summary of the project and the presentation deck, it can be found [here](https://public.tableau.com/app/profile/mar.a.p.rez.de.ayala/viz/FinalProject-Presentation_16396524682090/Final)
 
 
 
